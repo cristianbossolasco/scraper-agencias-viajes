@@ -1,0 +1,2927 @@
+id;direccion;latitud;longitud;nombre
+6; ;-35137317600;-60452377800;Bragado - Caminera (Buenos Aires - ARG)
+7; ;-35838385600;-61874721100;Pehuajo - ESSO (Buenos Aires - ARG)
+8; ;-35636855700;-61353562500;Carlos Casares - Shell (Buenos Aires - ARG)
+10; ;-34905308000;-57955514800;La Plata - Terminal (Buenos Aires - ARG)
+11; ;-35451965600;-60881273700;9 de Julio - Terminal (Buenos Aires - ARG)
+13; ;-34920677900;-59986048900;Chivilcoy - Parador La Posta (Buenos Aires - ARG)
+14;Estacion+de+Servicio+-+RN14+KM+683 ;-28581157000;-56086242000;Santo Tome - AXION (Corrientes - ARG)
+17; ;-29086626700;-56554189300;Alvear - Terminal (Corrientes - ARG)
+18; ;-27376712000;-55575885800;Santa Ana - Cruce (Misiones - ARG)
+20;Estados+Unidos+532%2C+R8402+Dina+Huapi%2C+R%C3%ADo+Negro ;-41074606000;-71170667900;Dina Huapi - Agencia (Rio Negro - ARG)
+21; ;-25967748600;-54571709600;Wanda - Terminal (Misiones - ARG)
+24;Av.+Gaona+5949%2C+Moreno%2C+Provincia+de+Buenos+Aires ;-34634650000;-58787100000;Moreno - Parador Dover (Buenos Aires - ARG) (Buenos Aires - ARG)
+25; ;-27918406700;-55750755100;Apostoles - Terminal (Misiones - ARG)
+26; ;-26026476000;-54586515400;Puerto Esperanza - SHELL (Misiones - ARG)
+27; ;-39003177500;-67847657200;Allen - PUMA (Rio Negro - ARG)
+28;Av.+Ant%C3%A1rtida+Argentina%2C+Calle+10+y%2C+Buenos+Aires ;-34586690000;-58374410000;(BUE) Retiro - Terminal (Capital Federal - ARG) (Buenos Aires - ARG)
+30; ;-39096978800;-67087036400;Villa Regina - Terminal (Rio Negro - ARG)
+33; ;-27047392300;-55243849800;Jardin America - Terminal (Misiones - ARG)
+38;Av.+Las+Am%C3%A9ricas+970 ;-27096434208;-54894989374;Aristobulo del Valle - Agencia (Misiones - ARG) (Misiones - ARG)
+39; ;-27616280600;-55321698200;Leandro N. Alem - Terminal (Misiones - ARG)
+40; ;-39290069900;-65657300900;Choele Choel - Terminal (Rio Negro - ARG)
+41; ;-38735776500;-62246477900;Bahia Blanca - Terminal (Buenos Aires - ARG)
+43; ;-25598157800;-54570550900;Puerto Iguazu - Terminal (Misiones - ARG)
+45; ;-34665815700;-59404583600;Mercedes - Rotonda (Buenos Aires - ARG)
+46; ;-27504151000;-55121208400;Obera - Terminal (Misiones - ARG)
+47; ;-27593186800;-56686373900;Ituzaingo (Transfer) - directo (Corrientes - ARG)
+48; ;-40051944200;-70080505000;Piedra del Aguila - Terminal (Neuquen - ARG)
+49; ;-26568550300;-54758176900;Montecarlo - Terminal (Misiones - ARG)
+50; ;-36276385900;-63150937600;Pellegrini - YPF (Buenos Aires - ARG)
+53; ;-25921758800;-54575572000;Puerto Libertad - Garita (Misiones - ARG)
+54; ;-35432290000;-58808119300;San Miguel del Monte - YPF Abandonada (Buenos Aires - ARG)
+56; ;-39183355900;-65955618300;Belisle - Agencia (Rio Negro - ARG)
+58; ;-27204948400;-54979520700;Campo Grande - Agencia (Misiones - ARG)
+59; ;-36028311000;-59083304000;Las Flores - YPF Ruta 3 km 187.3 (Buenos Aires - ARG)
+60; ;-36000802400;-62721226200;Trenque Lauquen - Estacion de Servicio (Buenos Aires - ARG)
+61; ;-27329003700;-55052586800;Campo Viera - Terminal (Misiones - ARG)
+62; ;-27191090200;-55469627400;Gobernador Roca - Iglesia (Misiones - ARG)
+63; ;-39513156400;-69292606100;Picun Leufu - Terminal (Neuquen - ARG)
+65; ;-38831041200;-68073483100;Cinco Saltos (Rio Negro - ARG)
+66; ;-26926863600;-55060157300;Capiovi - Terminal (Misiones - ARG)
+67; ;-27260952900;-55531500600;San Ignacio - Terminal (Misiones - ARG)
+69; ;-27402937400;-55915045700;Posadas - Terminal (Misiones - ARG)
+70; ;-36416810300;-63423793300;Catrilo - Caminera (La Pampa - ARG)
+72; ;-32486560600;-58309614700;Concepcion del Uruguay - Acceso (Entre Rios - ARG)
+74; ;-39162148700;-66152498400;Chimpay - Terminal (Rio Negro - ARG)
+75; ;-37366707800;-64605427400;General Acha - Terminal (La Pampa - ARG)
+76; ;-36895405500;-60314120700;Olavarria - Terminal (Buenos Aires - ARG)
+82; ;-38906463200;-70067861100;Zapala - Terminal (Neuquen - ARG)
+83; ;-39948552600;-71073753800;Junin de Los Andes - Terminal (Neuquen - ARG)
+84; ;-38930065800;-69225786900;Cutral Co - Terminal (Neuquen - ARG)
+85; ;-38959141800;-68105846600;Neuquen - Terminal (Neuquen - ARG)
+87;Av.+Gral.+Paz+10880%2C+CABA ;-34642660000;-58528700000;Liniers - Terminal (Capital Federal - ARG) (Capital Federal - ARG)
+92; ;-35475769200;-60864708400;9 de Julio - YPF Ruta 5 (Buenos Aires - ARG)
+93; ;-37333791200;-65655326800;Chacharramendi (La Pampa - ARG)
+94; ;-37769298400;-67717140900;Colonia 25 de Mayo - Terminal (La Pampa - ARG)
+96; ;-39040527312;-67576333189;General Roca - Terminal (Rio Negro - ARG)
+98; ;-30756689900;-58019936100;Chajari - YPF Garita (Entre Rios - ARG)
+99; ;-39116701300;-66929354700;Chichinales - Caminera (Rio Negro - ARG)
+100;RN151%2CCatriel%2C+R%C3%ADo+Negro ;-37901385292;-67861282582;Colonia Catriel - YPF (Rio Negro - ARG)
+101;12+de+Octubre+2400%2C+San+Carlos+de+Bariloche%2C+R%C3%ADo+Negro. ;-41130538600;-71271866500;Bariloche - Terminal (Rio Negro - ARG)
+102;Agencia+Dominique+-+Pte+N%C3%A9stor+Carlos+Kirchner+1763 ;-34855545000;-58524317400;Ezeiza (Buenos Aires - ARG)
+103; ;-31397531600;-58100209200;Concordia - Caminera (Entre Rios - ARG)
+104; ;-27744619300;-55784111000;San Jose - Cruce (Misiones - ARG)
+105; ;-38948462400;-72331237800;Curacautin Chile (Novena Region - CHL)
+106; ;-39203318600;-65741125300;Darwin (Rio Negro - ARG)
+108;Avenida+Per%C3%B3n+225 ;-39075217950;-67243794870;Ingeniero Huergo - Agencia (Rio Negro - ARG)
+110; ;-37552071300;-66223826400;La Reforma (La Pampa - ARG)
+111; ;-38508428500;-72454135900;Lautaro Chile (Puente) (Novena Region - CHL)
+113; ;-38447673500;-71247882800;Lonquimay Chile (Novena Region - CHL)
+114; ;-37989583400;-57561719600;Mar del Plata - Terminal (Buenos Aires - ARG)
+115; ;-38262559300;-57841714000;Miramar - Terminal (Buenos Aires - ARG)
+116; ;-30269964700;-57957687400;Monte Caseros - Cruce (Corrientes - ARG)
+117; ;-38548297281;-58731181366;Necochea - Terminal (Buenos Aires - ARG)
+121; ;-38991799169;-64105310364;Rio Colorado - Terminal (Rio Negro - ARG)
+122; ;-40160464000;-71357872200;San Martin de los Andes - Terminal (Neuquen - ARG)
+124; ;-38714861600;-72566821600;Temuco Chile (Novena Region - CHL)
+125; ;-38368919500;-60286021800;Tres Arroyos - Terminal (Buenos Aires - ARG)
+126; ;-26690736400;-54821133600;El Alcazar - Acceso (Misiones - ARG)
+129; ;-38942028900;-68008214200;Cipolletti - Terminal (Rio Negro - ARG)
+131; ;-42905874200;-71313858500;Esquel - Terminal (Chubut - ARG)
+134;Onelly+-+Esquina+Gral+Roca ;-41963716400;-71536786300;El Bolson (Rio Negro - ARG)
+135;Parador+-+Ruta+3+y+6%2C+Ca%C3%B1uelas%2C+Buenos+Aires ;-35026937000;-58744582000;Ca\xc3\xb1uelas - AXION (Buenos Aires - ARG)
+136; ;-33043421600;-58623248200;Gualeguaychu - Parador el Tague (Entre Rios - ARG)
+137; ;-26808204900;-55020700700;Puerto Rico - Terminal (Misiones - ARG)
+140; ;-37876267700;-67795161000;Colonia Catriel - Terminal (Rio Negro - ARG)
+146; ;-27470505900;-55749762700;Candelaria - Agencia (Misiones - ARG)
+147; ;-40820759600;-63005572600;Viedma - Terminal (Rio Negro - ARG)
+148; ;-34583377900;-59101909700;Lujan - ESSO (Buenos Aires - ARG)
+149; ;-39425142400;-65701133600;Lamarque - Terminal (Rio Negro - ARG)
+150; ;-39485553100;-65606902200;Pomona (Rio Negro - ARG)
+152; ;-40109284500;-64452946200;General Conesa - Terminal (Rio Negro - ARG)
+156; ; ;;San Javier (Misiones - ARG)
+159;Ruta+14+Y+Ruta+135%2C+Colon ;-32258902500;-58237495400;Colon - Cruce SHELL (Entre Rios - ARG)
+160; ;-37310861600;-59975786800;Chillar - Rotonda (Buenos Aires - ARG)
+161; ;-38870812900;-63109513500;Algarrobo - Cruce (Buenos Aires - ARG)
+163; ;-37647156700;-59858397200;Benito Juarez - Parador La Rueda (Buenos Aires - ARG)
+165; ;-26411002800;-54606401300;Eldorado - Terminal (Misiones - ARG)
+166; ;-32939468600;-60670718300;Rosario - Terminal (Santa Fe - ARG)
+167; ;-31643265100;-60700635000;Santa Fe - Terminal (Santa Fe - ARG)
+168; ;-24221214700;-65272200100;San Salvador - Terminal (Entre Rios - ARG)
+169; ;-29724326300;-57094418400;Paso de los Libres - Terminal (Corrientes - ARG)
+170; ; ;;Villaguay - Acceso en Ruta (Entre Rios - ARG)
+171; ;-27142294900;-55405082700;Santo Pipo - Terminal (Misiones - ARG)
+172; ;-27770529100;-55772877900;San Jose - Agencia (Misiones - ARG)
+173; ;-31032931600;-58072700500;Federacion - Cruce (Entre Rios - ARG)
+174; ;-31794065900;-58317446700;Ubajay - Parador Gastiazoro (Entre Rios - ARG)
+175; ;-31385250400;-58014816700;Concordia - Terminal (Entre Rios - ARG)
+176; ;-31739815000;-60517528700;Parana - Terminal (Entre Rios - ARG)
+179; ;-36619919400;-64280716200;Santa Rosa Terminal (La Pampa - ARG)
+180; ;-40793944800;-65077589800;Las Grutas - Terminal (Rio Negro - ARG)
+181; ;-40733307600;-64950099000;San Antonio Oeste - Terminal (Rio Negro - ARG)
+189;Ruta+40+km+1961 ;-41654865900;-71460061700;El Foyel (Rio Negro - ARG)
+190;Gendarmeria+Nacional+-+RN+40 ;-41586840800;-71492092600;Rio Villegas (Rio Negro - ARG)
+192;Escuela+Mascardi%2CRN+40+KM+2003 ;-41349527100;-71509527000;Villa Mascardi (Rio Negro - ARG)
+193; ;-42065128900;-71522954100;El Hoyo (Chubut - ARG)
+194; ;-42383908400;-71110897100;Leleque (Chubut - ARG)
+195;RN40%2C+U9211+Cushamen%2C+Chubut ;-42231655602;-71352150347;Epuyen (Chubut - ARG)
+196;RN+40+KM+1933 ;-41855212000;-71432020000;Los Repollos (Rio Negro - ARG)
+197;+Casa+del+Lago-+R.N.+40+%E2%80%93+km+2020 ;-41234095000;-71427414000;Lago Gutierrez (Rio Negro - ARG)
+198; ;-41055565800;-71148600900;Refugio  Limay (Rio Negro - ARG)
+199; ;-40894854000;-71040290600;Villa Llanquin (Neuquen - ARG)
+201; ;-41608455600;-65353932400;Sierra Grande (Rio Negro - ARG)
+205; ;-34647941000;-58794151000;Moreno - Centro Mitre 3108 (Buenos Aires - ARG)
+207; ;-49304354600;-67736117500;Puerto San Julian - Terminal (Santa Cruz - ARG)
+209; ;-39247285100;-68798972400;El Chocon - Estacion de Servicio (Neuquen - ARG)
+210; ;-28546429900;-56043931200;Santo Tome - Terminal (Corrientes - ARG)
+212; ;-38141884200;-65912872600;Puelches - Parador 300 (La Pampa - ARG)
+213; ; ;;Colon (Buenos Aires - ARG)
+214; ;-34190724400;-58948190000;Campana - Terminal (Buenos Aires - ARG)
+217; ;-40653530600;-71399867500;Villa Traful - Agencia (Neuquen - ARG)
+220; ;-42765430100;-65040736200;Puerto Madryn - Terminal (Chubut - ARG)
+222; ;-43303874300;-65097542700;Rawson (Chubut - ARG)
+223; ;-44689067600;-66623561400;Garayalde - YPF (Chubut - ARG)
+224;Carlos+Pellegrini ;-45863210000;-67480765000;Comodoro Rivadavia - Terminal (Chubut - ARG)
+226; ;-26016989000;-54649944300;Puerto Esperanza - Terminal (Misiones - ARG)
+228; ;-26628201900;-54122729300;San Pedro - Terminal (Misiones - ARG)
+229; ;-27020194300;-54684308800;2 de Mayo - Agencia (Misiones - ARG)
+230; ;-43248578800;-65302938200;Trelew - Terminal (Chubut - ARG)
+234; ;-38020001600;-60111565600;Gonzalez Chavez - Acceso Rotonda (Buenos Aires - ARG)
+237; ;-41475274400;-72948038600;Puerto Montt (Decima Region - CHL)
+238; ;-41320493800;-73007004300;Puerto Varas Acc. SUR (Decima Region - CHL)
+239; ;-41121133500;-73062515300;Frutillar CH (Decima Region - CHL)
+240; ;-40905647600;-73150867200;Purranque CH (Decima Region - CHL)
+241; ;-40573334200;-73125855600;Osorno (Decima Region - CHL)
+248; ;-51625250400;-69253048900;Rio Gallegos - Terminal (Santa Cruz - ARG)
+249; ;-46439453900;-67540125800;Caleta Olivia - Terminal (Santa Cruz - ARG)
+250; ;-49982799300;-68908910800;Luis Piedra Buena (Santa Cruz - ARG)
+251; ;-28059597200;-56014716600;Virasoro - Terminal (Corrientes - ARG)
+253; ;-39086769800;-66522772000;Chelforo (Rio Negro - ARG)
+255; ;-44046558000;-70600676500;Gobernador Costa (Chubut - ARG)
+257; ;-45581848000;-69069650200;Sarmiento (Chubut - ARG)
+259; ; ;;San Vicente - Terminal (Misiones - ARG)
+265; ; ;;Languineo (Chubut - ARG)
+268;Av.+Eugenio+Tello+487+Local+20 ;-43290473000;-65495587000;Gaiman (Chubut - ARG)
+271;Chubut+S%2FN+entre+Rivadavia+y+Belgrano ;-44049590400;-70473607828;Jose de San Martin (Chubut - ARG)
+277;Av.+7+Lagos+26 ;-40762836800;-71638391000;Villa La Angostura - Terminal (Neuquen - ARG)
+278;RN+12+y+Av.+de+las+Am%C3%A9ricas ;-26820413300;-54956257900;Garuhape - Acceso (Misiones - ARG)
+280; ;-30076491400;-57998602100;Cuatro Bocas - YPF (Corrientes - ARG)
+292;Rivadavia+21614%2C+Ituzaingo%2C+Buenos+Aires ;-34659285861;-58664610000;Ituzaingo - Av. Rivadavia 21614 (Buenos Aires - ARG)
+304; ; ;;Saenz Penia * FORM- cometa (Formosa - ARG)
+328; ;-37107790700;-56880163600;Pinamar - Terminal (Buenos Aires - ARG)
+329; ;-37286192100;-56994012600;Villa Gesell (Buenos Aires - ARG)
+330; ;-37733724900;-57445798500;Mar Chiquita (Buenos Aires - ARG)
+331; ;-37842164900;-57504895600;Santa Clara del Mar - Terminal (Buenos Aires - ARG)
+332; ;-37128459900;-56906207800;Valeria del Mar (Buenos Aires - ARG)
+335; ;-39312722600;-65760040300;Luis Beltran (Rio Negro - ARG)
+336; ;-24221459300;-65271964100;Jujuy - Terminal (Jujuy - ARG)
+337; ;-24257705200;-65212655100;Palpala (Jujuy - ARG)
+338; ;-24386247900;-65114293100;Perico del Carmen (Jujuy - ARG)
+340; ;-24668141700;-65051757400;General Guemes (Salta - ARG)
+344; ;-25495633100;-64976014500;Metan - Terminal (Salta - ARG)
+345; ;-25811578500;-64960334300;Rosario de la Frontera - Terminal (Salta - ARG)
+350; ;-26836619700;-65195400400;Tucuman - Terminal (Tucuman - ARG)
+351; ;-27491812500;-64865630900;Termas de Rio Hondo - Terminal (Santiago del Estero - ARG)
+352; ;-27778844700;-64263040400;Santiago del Estero - Terminal (Santiago del Estero - ARG)
+356; ;-28301868000;-64186506300;Loreto - Terminal (Santiago del Estero - ARG)
+359; ;-29499527600;-63698387100;Villa Ojo de Agua (Santiago del Estero - ARG)
+361; ;-30357101100;-63940858800;San Jose de la Dormida - Estacion de Servicio (Cordoba - ARG)
+362; ;-30980265100;-64094241000;Jesus Maria (Cordoba - ARG)
+363; ;-31423435600;-64174425600;Cordoba - Terminal (Cordoba - ARG)
+365; ;-32191621100;-64255283500;Almafuerte (Cordoba - ARG)
+366; ;-33114091100;-64351816200;Rio Cuarto - Terminal (Cordoba - ARG)
+367; ;-33929429500;-64397896500;Vicu\xc3\xb1a Mackenna - Rotonda (Cordoba - ARG)
+370; ;-34780424500;-58262157000;Florencio Varela - Terminal Princes Ber (Buenos Aires - ARG)
+371; ;-34742224700;-58290271200;Quilmes (Calchaqui y 12 de Octubre) (Buenos Aires - ARG)
+372; ;-35904220500;-64273898000;Castex - Acceso YPF KM 406 (La Pampa - ARG)
+374;Av.+Ntra+Sra+de+Luj%C3%A1n+600%2C+Luj%C3%A1n%2C+Provincia+de+Buenos+Aires ;-34560280000;-59120150000;Lujan - Terminal (Buenos Aires - ARG) (Buenos Aires - ARG)
+377; ;-36017009700;-59101380500;Las Flores - Terminal (Buenos Aires - ARG)
+381;Colectora+Ruta+Nacional+14+KM+495%2C+Paso+de+libres ;-29714935674;-57214870550;Paso de los Libres - SHELL (Corrientes - ARG)
+383; ;-38956113400;-68218199000;Plottier - Terminal (Neuquen - ARG)
+385; ;-37123370100;-63667402300;Macachin - YPF (La Pampa - ARG)
+390;Camping+Cumelen%2C+RN40+KM+1933 ;-41940876000;-71534605000;Gruta de la Virgen (Rio Negro - ARG)
+391; ;-34356005300;-58797299300;Escobar - Parador (Buenos Aires - ARG)
+394;+Ruta+22+y+Las+Heras+678 ;-39013079034;-68434942485;Senillosa - Agencia (Neuquen - ARG)
+395; ;-40025511300;-70054321300;Collon Cura (Neuquen - ARG)
+399; ;-38980596000;-67830748600;Allen - Agencia (Rio Negro - ARG)
+425;San+Geronimo+1502%2C+Bell+Ville%2C+C%C3%B3rdoba ;-32610801403;-62696221433;Bell Ville - Parador San Cayetano (Cordoba - ARG)
+426; ;-32414790700;-63233132500;Villa Maria (Cordoba - ARG)
+428;Ituzaing%C3%B3+1280 ;-35171859221;-58230860377;Brandsen - YPF (Buenos Aires - ARG)
+433; ; ;;Lihuel Calel (Rio Negro - ARG)
+434; ;-48142723400;-67650375400;Tres Cerros (Santa Cruz - ARG)
+435; ;-34781346400;-59676961900;Suipacha - YPF (Buenos Aires - ARG)
+436; ;-47024489300;-67248001100;Fitz Roy (Santa Cruz - ARG)
+445; ;-40608912342;-71645284636;Portezuelo (Neuquen - ARG)
+460; ; ;;Cerro Azul - Terminal (Misiones - ARG)
+462; ; ;;Mazza (Salta - ARG)
+464; ; ;;Tartagal (Salta - ARG)
+469; ;-23128068100;-64328467500;Oran - Terminal (Salta - ARG)
+475; ;-23810259400;-64787305000;Libertador General San Martin (Jujuy - ARG)
+479; ;-24228092900;-64869740000;San Pedro de Jujuy - Terminal (Jujuy - ARG)
+481; ;-24795185300;-65398455700;Salta - Terminal (Salta - ARG)
+490; ;-28475934400;-65774653000;Catamarca - Terminal (Catamarca - ARG)
+498; ;-29453573300;-66861327100;La Rioja - Terminal (La Rioja - ARG)
+502; ;-31342618233;-66589891389;Chepes - Terminal (La Rioja - ARG)
+505; ;-31648778400;-68287861300;Caucete (San Juan - ARG)
+510; ;-34631156500;-58629505600;Moron - Gaona y Vergara (Buenos Aires - ARG) (Buenos Aires - ARG)
+513; ;-38821713300;-62701206200;Medanos - YPF (Buenos Aires - ARG)
+514; ;-33023219600;-58537066000;Gualeguaychu - Terminal (Entre Rios - ARG)
+521; ;-25120506500;-64125480700;Joaquin V.Gonzalez - Terminal (Salta - ARG)
+524; ;-25615756700;-63268032100;Taco Pozo Terminal (Chaco - ARG)
+525; ;-25802537800;-62831754700;Monte Quemado - Terminal (Santiago del Estero - ARG)
+528; ;-26231684400;-61842534500;Pampa de los Guanacos - Agencia (Santiago del Estero - ARG)
+530; ;-26407899100;-61415355200;Los Frentones - Agencia (Chaco - ARG)
+533; ;-26685386135;-60728715416;Avia Terai - Terminal (Chaco - ARG)
+534; ;-26786875400;-60430185900;Roque Saenz Pe\xc3\xb1a - Terminal (Chaco - ARG)
+535; ;-26869884500;-60212920900;Quitilipi - Terminal (Chaco - ARG)
+536; ;-26924671900;-60049070100;Machagai - Terminal (Chaco - ARG)
+537; ;-27007711200;-59847679100;Presidencia de la Plaza (Chaco - ARG)
+538; ;-27456769000;-59023146600;Resistencia - Terminal (Chaco - ARG)
+540; ;-26191670900;-58193582300;Formosa - Terminal (Formosa - ARG)
+541; ;-25294071700;-57721777000;Clorinda (Formosa - ARG)
+545; ;-27499335600;-58814412400;Corrientes - Terminal (Corrientes - ARG)
+546; ;-27482992000;-58947969700;Barranqueras - Agencia (Chaco - ARG)
+548; ;-26799891386;-60837751129;Campo Largo - Terminal (Chaco - ARG)
+549; ;-26953939600;-60968756700;Corzuela - Terminal (Chaco - ARG)
+550; ;-27091862200;-61084395400;Las Bre\xc3\xb1as - Terminal (Chaco - ARG)
+551; ;-27220746400;-61192050600;Charata - Terminal (Chaco - ARG)
+552; ;-27329835300;-61286534100;General Pinedo - Terminal (Chaco - ARG)
+555; ;-27644825000;-62413963100;Quimili - Terminal (Santiago del Estero - ARG)
+558; ;-27916521400;-63887505400;Fernandez - Terminal (Santiago del Estero - ARG)
+559; ;-27735332500;-64249731300;La Banda - Terminal (Santiago del Estero - ARG)
+560; ;-27608351900;-61344695100;Hermoso Campo - Terminal (Chaco - ARG)
+561; ;-27835625000;-61114525000;Santa Sylvina - Terminal (Chaco - ARG)
+562; ;-28026303400;-61184363400;Gato Colorado - Agencia (Santa Fe - ARG)
+564; ;-28622208900;-61623559000;Villa Minetti - Terminal (Santa Fe - ARG)
+565; ;-29229189600;-61771659900;Tostado - Terminal (Santa Fe - ARG)
+567; ;-33363671200;-60252542500;San Nicolas - Parador (Buenos Aires - ARG)
+568; ; ;;Ciudadela (Gral Paz 201) (Buenos Aires - ARG)
+570;Camino+Pres.+Juan+Domingo+Per%C3%B3n+5490%2C+Villa+Fiorito%2C+Buenos+Aires ;-34707651000;-58455184000;La Noria - Terminal (Buenos Aires - ARG)
+577;Av.+Ernesto+Salva+1651+ ;-31241024715;-61505669769;Rafaela - Terminal (Santa Fe - ARG)
+584; ;-27593186800;-56686373900;Ituzaingo - Terminal (Corrientes - ARG)
+586; ;-29182646100;-58082217000;Mercedes - Terminal (Corrientes - ARG)
+587; ;-28574402900;-58722052600;San Roque - Cruce (Corrientes - ARG)
+588; ;-29175545700;-58856506300;Saladas - PETROBRAS (Corrientes - ARG)
+590; ;-27953411300;-58794622400;Empedrado  - Parador Cacho (Corrientes - ARG)
+591; ;-30756339600;-57988135800;Chajari - Terminal (Entre Rios - ARG)
+593; ;-34806634000;-58442005800;Lavallol (Buenos Aires - ARG)
+594; ;-34817182000;-58431864000;Loma Verde - SHELL (Buenos Aires - ARG)
+595;Av.+Espora+3842 ;-34833103000;-58385650000;Burzaco - Ledefax Vapor (Buenos Aires - ARG)
+596; ;-34835605900;-58401571500;Burzaco - Rotonda ESSO (Buenos Aires - ARG)
+598; ;-34791461900;-58311567300;San Francisco Solano - Ledefax (Buenos Aires - ARG)
+601; ;-31538931900;-68511600500;San Juan - Terminal (San Juan - ARG)
+605; ;-25728989500;-59104213700;Pirane - Terminal (Formosa - ARG)
+606; ;-29143760900;-59650307400;Reconquista - Terminal (Santa Fe - ARG)
+607; ; ;;Malabrigo - Terminal (Santa Fe - ARG)
+608; ; ;;Vera - SHELL (Santa Fe - ARG)
+610; ;-28486180500;-59348139200;Villa Ocampo - Terminal (Santa Fe - ARG)
+611; ;-28994027500;-59583706900;Las Toscas (Santa Fe - ARG)
+612; ;-26537959400;-59339652700;General San Martin - Terminal (Chaco - ARG)
+613; ;-26302379400;-59369709500;El Colorado - Agencia (Formosa - ARG)
+614; ;-27882725000;-59278981000;Basail - Cruce (Chaco - ARG)
+615; ;-26184628300;-59362800100;Villa Dos Trece - Terminal (Formosa - ARG)
+616; ;-28625199000;-65128036700;Frias - Terminal (Santiago del Estero - ARG)
+639; ;-37136885000;-63665857300;Macachin - Terminal (La Pampa - ARG)
+642; ; ;;Esquina - Terminal (Corrientes - ARG)
+644; ; ;;Goya - Terminal (Corrientes - ARG)
+646; ; ;;Bella Vista - Terminal (Corrientes - ARG)
+647; ;-28859104524;-58734502770;9 de Julio - Rotonda (Corrientes - ARG)
+648; ;-31453258900;-60931308800;Esperanza - Terminal (Santa Fe - ARG)
+657; ;-36814369700;-73021804700;Concepci\xc3\xb3n Chile (Novena Region - CHL)
+660; ;-38931330200;-69194662600;Plaza Huincul - Museo (Neuquen - ARG)
+670; ; ;;Las Coloradas - Agencia (Neuquen - ARG)
+674; ;-40086789200;-71135766500;Chapelco - Aeropuerto (Neuquen - ARG)
+678; ;-40795741800;-71592246300;Bahia Manzano (Neuquen - ARG)
+723; ;-38952542500;-68140221800;Neuquen - Aeropuerto (Neuquen - ARG) (Neuquen - ARG)
+725; ;-37381419900;-70265443300;Chos Malal - Terminal (Neuquen - ARG)
+726; ;-38879654100;-71186165200;Villa Pehuenia - Agencia (Neuquen - ARG)
+727; ;-39239644900;-70915283600;Alumine - Terminal (Neuquen - ARG)
+728; ;-38826262500;-68119948400;Centenario (Neuquen - ARG)
+730; ;-37721441800;-67763972300;Colonia 25 de Mayo - Rotonda (La Pampa - ARG)
+737; ;-34641330000;-58568665000;Ramos Mejia - Av. Rivadavia 14290 (Buenos Aires - ARG)
+762;Juan+B.+Alberdi+s%2Fn%2C+Guaymall%C3%A9n%2C+Mendoza ;-32894320000;-68830510000;Mendoza - Terminal (Mendoza - ARG) (Mendoza - ARG)
+781; ;-35043340200;-64244796000;Realico - Terminal (La Pampa - ARG)
+784; ;-31089757500;-64486983400;La Falda - Terminal (Cordoba - ARG)
+785; ;-31419192000;-64493281200;Villa Carlos Paz (Cordoba - ARG)
+786; ;-31243842800;-64467164600;Cosquin - Terminal (Cordoba - ARG)
+787; ;-46797408100;-67947757200;Pico Truncado (Santa Cruz - ARG)
+789; ;-46714797100;-68223381000;Koluel Kayke (Santa Cruz - ARG)
+790; ;-46590823900;-68567776700;Piedra Clavada (Santa Cruz - ARG)
+791; ;-46538303400;-68935378800;Las Heras (Santa Cruz - ARG)
+800; ;-24794916200;-65398693100;Salta (TG) (Salta - ARG)
+801;Alem+502%2C+San+Mart%C3%ADn%2C+Mendoza ;-33085940000;-68464550000;San Martin - Terminal (Mendoza - ARG) (Mendoza - ARG)
+804;Avenida+del+Fundador+S%2FN ;-33294996595;-66296864066;San Luis - Terminal (San Luis - ARG) (San Luis - ARG)
+805;25+De+Mayo%2C+Hilario+Cuadros+esq%2C+D5730+Villa+Mercedes%2C+San+Luis ;-33665490000;-65467100000;Villa Mercedes - Terminal (San Luis - ARG) (San Luis - ARG)
+807;Winter+N%C2%B030 ;-34589082213;-60949384744;Junin - Terminal (Buenos Aires - ARG) (Buenos Aires - ARG)
+810;Espa%C3%B1a+N%C2%B0548+%28Esquina+Casalins%29 ;-34134701567;-63390170440;Laboulaye - Terminal (Cordoba - ARG) (Cordoba - ARG)
+811; ; ;;El Volcan (San Luis - ARG)
+814; ; ;;Villa Las Rosas (Cordoba - ARG)
+819; ; ;;Mina Clavero (Cordoba - ARG)
+820; ; ;;Villa Dolores (Cordoba - ARG)
+837; ; ;;Asuncion (Paraguay) (Extranjero - PRY)
+846; ;-35990021500;-62720990200;Trenque Lauquen - Terminal (Buenos Aires - ARG)
+878;Terminal+de+%C3%93mnibus+-+Jose+Vela+e+Italia ;-33913729000;-60586451000;Pergamino - Terminal (Buenos Aires - ARG)
+910; ;-31313782400;-64461824300;Bialet Masse - Terminal (Cordoba - ARG)
+915; ;-37394266400;-68925476100;Rincon de los Sauces (Neuquen - ARG)
+928; ;-39078025300;-67244364000;Ingeniero Huergo - Acceso Arco (Rio Negro - ARG)
+970; ;-27470848600;-55746050500;Candelaria - Acceso (Misiones - ARG)
+971; ;-26028751200;-54586472500;Puerto Esperanza - Acceso (Misiones - ARG)
+977; ; ;;Pozo Azul (Misiones - ARG)
+986; ; ;;San Antonio (Misiones - ARG)
+987; ; ;;Bernardo de Irigoyen (Misiones - ARG)
+1002; ;-29714221300;-57214951500;Paso de los Libres - PUMA (Corrientes - ARG)
+1004;Ruta+23+y+8 ;-34531000000;-58700020000;San Miguel - Centro de Trasbordo (Buenos Aires - ARG)
+1012; ;-34471730400;-58655894500;Pacheco - Terminal (Buenos Aires - ARG)
+1017; ; ;;Jesus Maria (VCP) (Cordoba - ARG)
+1018; ;-29899535600;-63723202900;Villa M de Rio Seco (Cos) (Cordoba - ARG)
+1019; ; ;;Villa Ojo de Agua (LF) (Cordoba - ARG)
+1022; ;-33003996100;-60665173500;Arij\xc3\xb3n y Oro\xc3\xb1o (Rosario) (Santa Fe - ARG)
+1023; ;-32991855400;-60665602700;Uriburu y Oro\xc3\xb1o (Rosario) (Santa Fe - ARG)
+1024; ;-32976385100;-60661643700;Segui y Oro\xc3\xb1o (Rosario) (Santa Fe - ARG)
+1027; ;-38209768061;-57701812295;Chapadmalal - Capilla (Buenos Aires - ARG)
+1028; ;-34664611000;-58729619000;Merlo - Terminal Av. Rivadavia y Libert (Buenos Aires - ARG)
+1029;Turismo+Cuello ;-34665889244;-58699334859;Padua - Av. Rivadavia 23876 (Buenos Aires - ARG)
+1031; ; ;;Haedo - Av. Rivadavia 15980 (Buenos Aires - ARG)
+1032; ;-34640131900;-58561113300;Ramos Mejia (Av Rivadavia 13762) (Buenos Aires - ARG)
+1033; ;-34806691000;-58441526000;Luis Guillon (Boulevard Bs As 1925) (Buenos Aires - ARG)
+1038; ;-36384504900;-56728017900;San Clemente de Tuyu (Buenos Aires - ARG)
+1039; ;-36488368000;-56704087300;Las Toninas (Buenos Aires - ARG)
+1040; ;-36535803700;-56713711000;Santa Teresita (Buenos Aires - ARG)
+1041; ;-36582710600;-56699838600;Mar del Tuyu (Buenos Aires - ARG)
+1042; ;-36659954000;-56684718000;La Lucila del Mar (Buenos Aires - ARG)
+1044; ;-36686742500;-56688401000;San Bernardo (Buenos Aires - ARG)
+1045; ;-36733278200;-56694831000;Mar de Ajo - Terminal (Buenos Aires - ARG)
+1047; ;-32965016900;-60658505600;Oro\xc3\xb1o y 27 de Febrero (Rosario) (Santa Fe - ARG)
+1048; ;-34585109200;-58749019500;Cruce Castelar - Av. Libertador 7459 (Buenos Aires - ARG)
+1053; ; ;;Castelar - Mitre y Rivadavia (Buenos Aires - ARG)
+1058; ;-34859653700;-58389968300;Longchamps - Hipolito Yrigoyen 18274 (Buenos Aires - ARG)
+1059; ;-30755293100;-58018932900;Chajari - El Parador (Entre Rios - ARG)
+1069; ;-34518094200;-58749631700;Jose C. Paz - Ruta 197 Esquina Compostela (Buenos Aires - ARG)
+1070; ; ;;Lomas de Zamora - Boedo 475 (Buenos Aires - ARG)
+1094; ; ;;Merlo (San Luis - ARG)
+1098; ; ;;Los Hornillos - Acceso (Cordoba - ARG)
+1099; ; ;;Las Rabonas (Cordoba - ARG)
+1100; ; ;;Nono (Cordoba - ARG)
+1103; ; ;;Cura Brochero (Cordoba - ARG)
+1105; ;-34460358300;-58528817900;Beccar - Av. Centenario 2002 (Buenos Aires - ARG)
+1106; ;-34474233800;-58513122400;San Isidro - Av. Marquez y Av. Centenario (Buenos Aires - ARG)
+1107; ; ;;Tren de la Costa (Buenos Aires - ARG)
+1110; ;-34551404900;-58553674200;Villa Ballester - Pueyrredon e Independencia (Buenos Aires - ARG)
+1112; ;-34602234300;-58561876400;Caseros - San Martin 2187 (Buenos Aires - ARG)
+1114; ;-34530834400;-58525081900;Munro - Av. Velez Sarfield 4751 (Buenos Aires - ARG)
+1123; ;-34487728100;-58503184000;Martinez - Av. Santa Fe al 1800 (Buenos Aires - ARG)
+1124; ; ;;Caviahue (Neuquen - ARG)
+1125; ; ;;Copahue (Neuquen - ARG)
+1126; ; ;;Loncopue (Neuquen - ARG)
+1156; ; ;;Currumil (Neuquen - ARG)
+1157; ; ;;Quillen (Neuquen - ARG)
+1158; ; ;;Lago Quillen (Neuquen - ARG)
+1169; ;-34675971800;-58564239400;San Justo - Av. Pte Arturo Ilia 2582 (Buenos Aires - ARG)
+1188; ; ;;La Matanza (Buenos Aires - ARG)
+1197; ; ;;Saenz Penia * CLOR - cometa (Formosa - ARG)
+1199; ; ;;Villa del Dique (Cordoba - ARG)
+1200; ; ;;Ribeirao Bonito - BR
+1206; ;-34749705000;-58586049000;Laferrere (E. del Campo 6300 - AXION) - Provisoria (Buenos Aires - ARG)
+1209; ;-39114778400;-66945598100;Chichinales - Agencia (Rio Negro - ARG)
+1223; ; ;;La Quiaca (Jujuy - ARG)
+1227; ; ;;Tres Cruces (Jujuy - ARG)
+1228; ; ;;Humahuaca - Terminal (Jujuy - ARG)
+1229; ; ;;Tilcara (Jujuy - ARG)
+1230; ; ;;Maimara - Terminal (Jujuy - ARG)
+1231; ; ;;Purmarmarca - Cruce (Jujuy - ARG)
+1232; ; ;;Tumbaya (Jujuy - ARG)
+1233; ; ;;Volcan - Ruta (Jujuy - ARG)
+1234; ; ;;Barcena (Jujuy - ARG)
+1235; ; ;;Leon Terminal (Jujuy - ARG)
+1236; ; ;;Lozano - Terminal (Jujuy - ARG)
+1237; ; ;;Yala - Terminal (Jujuy - ARG)
+1240; ; ;;Turdera - Agencia Echarren H Yrigoyen1123 (Buenos Aires - ARG)
+1248; ; ;;Ciudad del Este (Extranjero - PRY)
+1249;Av.+Perito+Moreno+3950%2C+CABA ;-34650022229;-58463578448;Dellepiane - Terminal (Capital Federal - ARG) (Buenos Aires - ARG)
+1266; ; ;;Quila Quina - Acceso (Neuquen - ARG)
+1267; ;-40153949300;-71337919200;Cerro Chapelco - Acceso (Neuquen - ARG)
+1268; ; ;;Wanda - Acceso (Misiones - ARG)
+1272; ; ;;San Agustin (Cordoba - ARG)
+1273; ;-36236525200;-61122087300;Bolivar - Terminal (Buenos Aires - ARG)
+1274; ;-37320913900;-59118724100;Tandil - Terminal (Buenos Aires - ARG)
+1275; ;-37832960200;-58236639800;Balcarce - Terminal (Buenos Aires - ARG)
+1276; ; ;;San Geronimo (Santa Fe - ARG)
+1277; ; ;;Encon (San Juan - ARG)
+1278; ; ;;Araditos (San Luis - ARG)
+1283; ; ;;T. de Rio Hondo (SJMDP) (Santiago del Estero - ARG)
+1284; ; ;;Santa Rosa de Calamuchita (Cordoba - ARG)
+1285; ; ;;Embalse (Cordoba - ARG)
+1286; ; ;;Elena (Corrientes - ARG)
+1287; ; ;;Arias (Entre Rios - ARG)
+1288; ;-34592010000;-58560652000;Tropezon - San Martin 1119 (Buenos Aires - ARG)
+1291; ;-29789250400;-58087460700;Curuzu Cuatia - Cruce OIL (Corrientes - ARG)
+1295; ; ;;San Cristobal - Terminal (Santa Fe - ARG)
+1296; ; ;;Capiavara (Santa Fe - ARG)
+1297; ; ;;Constanza (Santa Fe - ARG)
+1298; ; ;;Virginia (Santa Fe - ARG)
+1299; ; ;;Humberto 1ero (Santa Fe - ARG)
+1300; ; ;;Ataliva (Buenos Aires - ARG)
+1302; ; ;;Nuevo Torino (Santa Fe - ARG)
+1303; ; ;;Humboldt (Santa Fe - ARG)
+1304; ; ;;Franck (Santa Fe - ARG)
+1305; ; ;;Cruce Ruta 6 y 19 (Santa Fe - ARG)
+1306; ; ;;Rawson Ter (Chubut - ARG)
+1307; ; ;;Chilecito (La Rioja - ARG)
+1308; ; ;;Capilla del Monte (Cordoba - ARG)
+1309; ; ;;La Cumbre (Cordoba - ARG)
+1310; ; ;;Villa Giardino (Cordoba - ARG)
+1311; ; ;;Pampa (San Juan - ARG)
+1312; ; ;;Qurquincho (Mendoza - ARG)
+1313; ; ;;Alto Verde (Mendoza - ARG)
+1314; ; ;;Tres Esquinas (Mendoza - ARG)
+1315; ; ;;Colonia Fiscal (San Juan - ARG)
+1316; ; ;;Carpinteria (San Juan - ARG)
+1317; ; ;;Pocito (San Juan - ARG)
+1318; ;-34500048500;-58713807800;Pablo Nogues - Avda Sesquicentenario 1701 (ex 197) (Buenos Aires - ARG)
+1319; ;-36774463500;-59090430600;Rauch - Terminal (Buenos Aires - ARG)
+1320; ; ;;Loberia (Buenos Aires - ARG)
+1321; ;-35032351000;-63012062000;General Villegas (Buenos Aires - ARG)
+1322;Monse%C3%B1or+Bufano+3457 ;-34685105339;-58561614000;San Justo - Rotonda Brubus (M Bufano 3457) (Buenos Aires - ARG)
+1323;Ca%C3%A1+Guaz%C3%BA+565%2C+Curuz%C3%BA+Cuati%C3%A1%2C+Corrientes ;-29789409641;58051255198;Curuzu Cuatia - Terminal (Corrientes - ARG)
+1324; ; ;;Urdampilleta (Buenos Aires - ARG)
+1325; ; ;;Daireaux (Buenos Aires - ARG)
+1326; ; ;;Bonifacio (Buenos Aires - ARG)
+1327; ; ;;Guamini (Buenos Aires - ARG)
+1328; ; ;;Carhue (Buenos Aires - ARG)
+1329; ; ;;Rivera (Buenos Aires - ARG)
+1330; ; ;;Salto (Buenos Aires - ARG)
+1331; ; ;;San Andres de Giles (Buenos Aires - ARG)
+1332; ; ;;Magdalena (Buenos Aires - ARG)
+1333;Colectora+Panamericana+y+Av.+Belgrano+ ;-34417070500;-58724746500;Garin (Buenos Aires - ARG)
+1334; ;-34502528000;-58495320500;Olivos - Av. Maipu 3604 - YPF (Buenos Aires - ARG)
+1335; ; ;;Puente Saavedra (Capital Federal - ARG)
+1336; ; ;;Rafael Castillo (Buenos Aires - ARG)
+1337; ; ;;Glew - Agencia Sergito (Buenos Aires - ARG)
+1338; ; ;;Guernica (Buenos Aires - DEU)
+1339; ; ;;Alejandro Korn (Buenos Aires - ARG)
+1340; ;-41145627000;-71161294000;Bariloche - Aeropuerto (Rio Negro - ARG)
+1341; ;-42062081900;-71598194600;Lago Puelo (Chubut - ARG)
+1342; ; ;;Parque Central (Rio Negro - ARG)
+1343; ; ;;General Pico (La Pampa - ARG)
+1344; ; ;;Camboriu - BR
+1345; ; ;;Arroyito (Cordoba - ARG)
+1346; ; ;;Devoto (Corrientes - ARG)
+1347; ; ;;San Francisco (Cordoba - ARG)
+1348; ; ;;Uruguaiana
+1349; ; ;;Sao Gabriel - BR
+1350; ; ;;Pantano Grande - BR
+1351; ; ;;Porto Alegre
+1352; ; ;;Sombrio - BR
+1353; ; ;;Loja Ferju - BR
+1354; ; ;;Florianopolis - BR
+1355; ; ;;Itapema - BR
+1356; ; ;;Lago Ruca Choroi (Neuquen - ARG)
+1357; ; ;;Dion\xc3\xadsio Cerqueira (BR)
+1358; ; ;;Sao Miguel do Oeste (BR)
+1359; ; ;;Maravilha (BR)
+1360; ; ;;Chapeco (BR)
+1361; ; ;;Xanxere (BR)
+1362; ; ;;Joacaba (BR)
+1363; ; ;;Campos Novos (BR)
+1364; ; ;;Curitibanos (BR)
+1365; ; ;;Rio do Sul (BR)
+1366; ; ;;Blumenau (BR)
+1367; ; ;;Itajai (BR)
+1370; ;-37161055600;-58487185500;Ayacucho - Terminal (Buenos Aires - ARG)
+1371; ;-35761051000;-58495154000;General Belgrano - Terminal (Buenos Aires - ARG)
+1372; ; ;;San Manuel - Acceso (Buenos Aires - ARG)
+1373; ; ;;Loma Verde - Acceso (Buenos Aires - ARG)
+1374; ; ;;Gobernador Udaondo (Buenos Aires - ARG)
+1375; ; ;;Cruce Gorchs (Buenos Aires - ARG)
+1376; ;-36562812400;-59063451500;Cruce Miranda (Buenos Aires - ARG)
+1377; ; ;;Ega\xc3\xb1a - Acceso (Buenos Aires - ARG)
+1378; ; ;;De La Canal - Acceso (Buenos Aires - ARG)
+1379; ; ;;Cruce Napaleoufu (Buenos Aires - ARG)
+1380; ; ;;La Magdalena (Buenos Aires - ARG)
+1381; ; ;;Dos Naciones (Buenos Aires - ARG)
+1382; ; ;;Estancia Pieres (Buenos Aires - ARG)
+1383; ; ;;Jepenner (Buenos Aires - ARG)
+1384; ;-36025922700;-58624207400;Iba\xc3\xb1ez (Buenos Aires - ARG)
+1385; ; ;;Real Audiencia (Buenos Aires - ARG)
+1386; ; ;;Casalins - Acceso (Buenos Aires - ARG)
+1387; ; ;;Udaquiola - Acceso (Buenos Aires - ARG)
+1388; ; ;;Langueyu - Acceso (Buenos Aires - ARG)
+1389; ; ;;Solanet - Acceso (Buenos Aires - ARG)
+1390; ;-37312188200;-58739182200;Las Chilcas (Buenos Aires - ARG)
+1391; ;-37499995000;-59374431000;Cruce de Vela (Buenos Aires - ARG)
+1392; ; ;;Cruce de Barker (Buenos Aires - ARG)
+1393; ; ;;Cascallares (Buenos Aires - ARG)
+1394; ; ;;Irene (Buenos Aires - ARG)
+1395; ; ;;Aparicio - Acceso (Buenos Aires - ARG)
+1396; ; ;;San Roman (Buenos Aires - ARG)
+1397; ; ;;Aparicio (Buenos Aires - ARG)
+1398;Avellaneda+660 ;-38876930408;62070474992;Punta Alta - Terminal (Buenos Aires - ARG)
+1399; ; ;;Guisasola (Buenos Aires - ARG)
+1400;Entrada+al+pueblo+por+Boulevard+-+RN34+y+Av.+San+M ;-28478003000;-63065777000;Herrera - Entrada (Santiago del Estero - ARG)
+1401;Ruta+N34+entre+Bs+As+%28en+google+figura+Catamarca%29+ ;-28338125000;-63339920000;Lugones (Santiago del Estero - ARG)
+1402;Entrada+al+Pueblo ;-28147890000;-63543544000;Garza - Entrada (Santiago del Estero - ARG)
+1403;Franco+Bar+-+Av.+25+de+Mayo+e%2F+Sta.+Fe+y+8+de+Sept ;-27871955000;-63978615000;Forres (Santiago del Estero - ARG)
+1404;Parador+Beltr%C3%A1n+-+Islas+Malvinas+68+%28sobre+R34%29 ;-27823282000;-64055208000;Beltran - Parador (Santiago del Estero - ARG)
+1406; ;-32370643400;-61355886000;San Genaro (Santa Fe - ARG)
+1407; ; ;;El Sosiego (Buenos Aires - ARG)
+1408; ;-37799981400;-57642086100;Cobo (Buenos Aires - ARG)
+1409; ; ;;Vivorata Arroyo (Buenos Aires - ARG)
+1410; ; ;;Coronel Vidal (Buenos Aires - ARG)
+1411; ; ;;General Piran (Buenos Aires - ARG)
+1412; ; ;;Las Armas (Buenos Aires - ARG)
+1413; ;-38720621100;-61285957400;Coronel Dorrego - Terminal (Buenos Aires - ARG)
+1414; ;-37678464600;-59823296200;Benito Juarez - Terminal (Buenos Aires - ARG)
+1415;F%C3%A9lix+San+Mart%C3%ADn+y+Olavarr%C3%ADa ;-35436326000;-58817329300;San Miguel del Monte - Terminal (Buenos Aires - ARG)
+1416;Urrutia+201-299%2C+Gral.+Juan+Madariaga%2C+Provincia+de+Buenos+Aires ;-36995036025;-57137858671;General Madariaga - Terminal (Buenos Aires - ARG)
+1417; ; ;;La Dulce (Buenos Aires - ARG)
+1418; ; ;;Juan N.Fernandez (Buenos Aires - ARG)
+1419; ; ;;San Manuel - Terminal (Buenos Aires - ARG)
+1420; ; ;;Chascomus (Buenos Aires - ARG)
+1421; ; ;;Castelli (Buenos Aires - ARG)
+1422; ; ;;Maipu (Buenos Aires - ARG)
+1423; ; ;;Ranchos (Buenos Aires - ARG)
+1424; ; ;;Cachari (Buenos Aires - ARG)
+1425; ;-38850950000;-60071670000;Claromeco (Buenos Aires - ARG)
+1426; ;-36783800376;-59851619822;Azul - Terminal (Buenos Aires - ARG)
+1427; ; ;;Bom Jesus do Amparo - BR
+1428; ; ;;Curiuva - BR
+1429; ; ;;Itaguara - BR
+1430; ; ;;Mogi das Cruzes - BR
+1431; ; ;;Peritor\xc3\xb3 - BR
+1433; ; ;;Ponto Alto - BR
+1434; ; ;;Sao Francisco de Paula - BR
+1435; ; ;;Sao Miguel dos Campos - BR
+1436; ; ;;Veran\xc3\xb3polis - BR
+1437; ; ;;Boa Sorte - BR
+1438; ; ;;Cristinapolis - BR
+1439; ; ;;Irapuru - BR
+1440; ; ;;Minacu - BR
+1441; ; ;;Planaltina - BR
+1442; ; ;;Vista Alegre - BR
+1443; ; ;;Ava\xc3\xad - BR
+1444; ; ;;Bela Vista - BR
+1445; ; ;;CATUJI - BR
+1446; ; ;;C\xc3\xb3rrego Fundo - BR
+1447; ; ;;Guatambu - BR
+1448; ; ;;Ing\xc3\xa1 - BR
+1449; ; ;;Maca\xc3\xbabas - BR
+1450; ; ;;Patriarca - BR
+1451; ; ;;Santana do Jacare - BR
+1452; ; ;;Uniflor - BR
+1453; ; ;;Antonio Dos Santos - BR
+1454; ; ;;Canaa dos Carajas - BR
+1455; ; ;;Claudin\xc3\xa1polis - BR
+1456; ; ;;Ibipora - BR
+1457; ; ;;Manhumirim - BR
+1458; ; ;;Pedras de Fogo - BR
+1459; ; ;;Sant\xc3\xb3polis do Aguape\xc3\xad - BR
+1460; ; ;;Vargem Bonita - BR
+1461; ; ;;Araguari - BR
+1462; ; ;;Capitao Leonidas Marques - BR
+1463; ; ;;FAZENDA NOVA - BR
+1464; ; ;;Governador Mangabeira - BR
+1465; ; ;;Lagoa Grande - BR
+1466; ; ;;Nova Friburgo - BR
+1468; ; ;;PANORAMA - BR
+1469; ; ;;Suzano - BR
+1470; ; ;;Tres Rios - BR
+1471; ; ;;Aguada Nova - BR
+1472; ; ;;Argoim - BR
+1473; ; ;;Carmo da Mata - BR
+1474; ; ;;Espraiado - BR
+1475; ; ;;Guapiara - BR
+1476; ; ;;Lavras da Mangabeira - BR
+1477; ; ;;Turvania - BR
+1479; ; ;;Nazareno - BR
+1480; ; ;;Paranatinga - BR
+1481; ; ;;Santa Izabel do Oeste - BR
+1482; ; ;;Severinia - BR
+1483; ; ;;S\xc3\xadtio Alegre - BR
+1484; ; ;;Acailandia - BR
+1485; ; ;;Ananindeua - BR
+1486; ; ;;Catanduva - BR
+1487; ; ;;Ed\xc3\xa9ia - BR
+1488; ; ;;Foz do Jordao - BR
+1489; ; ;;Luziania - BR
+1490; ; ;;Mundo Novo - BR
+1491; ; ;;Ol\xc3\xadmpia - BR
+1492; ; ;;Santa Terezinha de Goi\xc3\xa1s - BR
+1493; ; ;;Senhora de Oliveira - BR
+1494; ; ;;Aperib\xc3\xa9 - BR
+1495; ; ;;Chor\xc3\xb3 - BR
+1496; ; ;;Divin\xc3\xb3polis - BR
+1498; ; ;;Gaturiana - BR
+1499; ; ;;Manga - BR
+1500; ; ;;Montese - BR
+1501; ; ;;Pacatuba - BR
+1502; ; ;;Santo Antonio do Sudoeste - BR
+1503; ; ;;Sap\xc3\xa9 - BR
+1504; ; ;;Tim\xc3\xb3teo - BR
+1505; ; ;;Barra do Garcas - BR
+1506; ; ;;Cafarnaum - BR
+1507; ; ;;Itaituba - BR
+1508; ; ;;Mara\xc3\xba - BR
+1509; ; ;;Monda\xc3\xad - BR
+1510; ; ;;Pentecoste - BR
+1511; ; ;;Alto Araguaia - BR
+1512; ; ;;Boa Vista - BR
+1513; ; ;;Coromandel - BR
+1514; ; ;;Cruz Alta - BR
+1515; ; ;;Inaj\xc3\xa1 - BR
+1516; ; ;;Janu\xc3\xa1ria - BR
+1517; ; ;;Poco das Trincheiras - BR
+1518; ; ;;Sao Joao Do Itaperiu - BR
+1519; ; ;;SAO LUIS DO QUITUNDE - BR
+1520; ; ;;Vila Velha - BR
+1521; ; ;;DOVERLANDIA - BR
+1522; ; ;;Itapua do Oeste - BR
+1523; ; ;;Ita\xc3\xba de Minas - BR
+1524; ; ;;Merces - BR
+1525; ; ;;Muribeca - BR
+1526; ; ;;Pires Ferreira - BR
+1527; ; ;;Tiete - BR
+1528; ; ;;Botucatu - BR
+1529; ; ;;Bras\xc3\xb3polis - BR
+1530; ; ;;DOM JOAQUIM - BR
+1531; ; ;;Oeiras - BR
+1532; ; ;;Potiragua - BR
+1533; ; ;;Rio Claro - BR
+1534; ; ;;Sao Mateus do Maranhao - BR
+1535; ; ;;Sarandi - BR
+1536; ; ;;Aracruz - BR
+1537; ; ;;CARANAIBA - BR
+1538; ; ;;Caravelas - BR
+1539; ; ;;Fartura - BR
+1540; ; ;;Jaguaribe - BR
+1541; ; ;;Maraba Paulista - BR
+1542; ; ;;Palmitinho - BR
+1543; ; ;;Santa Ad\xc3\xa9lia - BR
+1544; ; ;;Santa Cruz - BR
+1545; ; ;;Sousa - BR
+1547; ; ;;\xc3\x81gua Comprida - BR
+1548; ; ;;Cachoeirinha - BR
+1549; ; ;;Centralina - BR
+1550; ; ;;Guaiuba - BR
+1551; ; ;;Limeira - BR
+1552; ; ;;Loanda - BR
+1553; ; ;;Natal - BR
+1554; ; ;;QUIJINGUE - BR
+1555; ; ;;Quixeramobim - BR
+1556; ; ;;Tupanatinga - BR
+1557; ; ;;Atibaia - BR
+1558; ; ;;Campo Grande - BR
+1559; ; ;;Frutal - BR
+1560; ; ;;Itarantim - BR
+1561; ; ;;MATRIZ DE CAMARAGIBE - BR
+1562; ; ;;Pastos Bons - BR
+1563; ; ;;Rio Dourado - BR
+1564; ; ;;Santo Anast\xc3\xa1cio - BR
+1565; ; ;;Terra Boa - BR
+1566; ; ;;Altonia - BR
+1567; ; ;;Brasilandia de Minas - BR
+1568; ; ;;Conselheiro Pena - BR
+1569; ; ;;Ibiam - BR
+1570; ; ;;Jupia - BR
+1571; ; ;;Nova Xavantina - BR
+1572; ; ;;Porto Uniao - BR
+1573; ; ;;Sao Joao - BR
+1574; ; ;;Valenca - BR
+1576; ; ;;Barra - BR
+1577; ; ;;Caiua - BR
+1578; ; ;;Faina - BR
+1579; ; ;;Ibitit\xc3\xa1 - BR
+1580; ; ;;MONTALVANIA - BR
+1581; ; ;;Nova Andradina - BR
+1582; ; ;;Porto Belo - BR
+1583; ; ;;Santa Cruz do Sul - BR
+1584; ; ;;Sao Borja - BR
+1585; ; ;;Trussu - BR
+1586; ; ;;Alto Paran\xc3\xa1 - BR
+1587; ; ;;Barroso - BR
+1588; ; ;;Flecheiras - BR
+1589; ; ;;Gl\xc3\xb3ria - BR
+1590; ; ;;Maring\xc3\xa1 - BR
+1591; ; ;;Miraporanga - BR
+1592; ; ;;RIBEIRAO VERMELHO - BR
+1593; ; ;;Ruy Barbosa - BR
+1594; ; ;;Sao Joao da Barra - BR
+1595; ; ;;Sao Martinho - BR
+1596; ; ;;Vila Iracema - BR
+1597; ; ;;Andir\xc3\xa1 - BR
+1598; ; ;;Bernardino de Campos - BR
+1599; ; ;;Cassilandia - BR
+1600; ; ;;Ipir\xc3\xa1 - BR
+1601; ; ;;Joaquim Murtinho - BR
+1602; ; ;;Rio Novo do Sul - BR
+1603; ; ;;Sao Jos\xc3\xa9 do Alegre - BR
+1604; ; ;;Teotonio Vilela - BR
+1605; ; ;;Cantagalo - BR
+1606; ; ;;C\xc3\xa9u Azul - BR
+1607; ; ;;CORGUINHO - BR
+1608; ; ;;Humaita - BR
+1609; ; ;;Imbuia - BR
+1610; ; ;;Jussara - BR
+1611; ; ;;PALESTINA - BR
+1612; ; ;;Paulistana - BR
+1613; ; ;;Pilar do Sul - BR
+1614; ; ;;Trabiju - BR
+1615; ; ;;Ubatuba - BR
+1616; ; ;;Bonito - BR
+1617; ; ;;Comendador Levy Gasparian - BR
+1618; ; ;;Gramado - BR
+1619; ; ;;Itajub\xc3\xa1 - BR
+1620; ; ;;Jacobina do Piaui - BR
+1621; ; ;;Jacutinga - BR
+1622; ; ;;Maranguape - BR
+1623; ; ;;Paraguacu - BR
+1625; ; ;;Registro - BR
+1626; ; ;;Baependi - BR
+1627; ; ;;Manaus - BR
+1628; ; ;;Quatro Ponte - BR
+1629; ; ;;Santo Antonio do Amparo - BR
+1630; ; ;;Belo Oriente - BR
+1631; ; ;;Campos Belos - BR
+1632; ; ;;Ipanema - BR
+1633; ; ;;Ju\xc3\xa1 - BR
+1634; ; ;;Pirassununga - BR
+1635; ; ;;Riqueza - BR
+1636; ; ;;Santa Teresinha - BR
+1637; ; ;;Urucuca - BR
+1638; ; ;;Werneck - BR
+1639; ; ;;Cacaulandia - BR
+1640; ; ;;Campina da Lagoa - BR
+1641; ; ;;Carlos Chagas - BR
+1642; ; ;;Ijuizinho - BR
+1643; ; ;;Itabera - BR
+1644; ; ;;Itoror\xc3\xb3 - BR
+1645; ; ;;Jataizinho - BR
+1646; ; ;;PIAO - BR
+1647; ; ;;Poco Preto - BR
+1648; ; ;;Arapiraca - BR
+1649; ; ;;Barbacena - BR
+1650; ; ;;Caldas Novas - BR
+1651; ; ;;Cust\xc3\xb3dia - BR
+1652; ; ;;Ico - BR
+1653; ; ;;Lajedo - BR
+1654; ; ;;Nova Era - BR
+1655; ; ;;Porci\xc3\xbancula - BR
+1656; ; ;;Sao Cristovao Do Sul - BR
+1657; ; ;;Baturit\xc3\xa9 - BR
+1658; ; ;;Fervedouro - BR
+1660; ; ;;General Sampaio - BR
+1661; ; ;;Marmel\xc3\xb3polis - BR
+1662; ; ;;Miracema - BR
+1663; ; ;;Rosana - BR
+1664; ; ;;Abelardo Luz - BR
+1665; ; ;;Brumadinho - BR
+1666; ; ;;Corumb\xc3\xa1 - BR
+1667; ; ;;Muitos Capoes - BR
+1668; ; ;;Olivenca - BR
+1669; ; ;;Pira\xc3\xad do Sul - BR
+1670; ; ;;Presidente Bernardes - BR
+1671; ; ;;Serra Branca - BR
+1672; ; ;;Xique Xique - BR
+1673; ; ;;Cambu\xc3\xad - BR
+1674; ; ;;Irupi - BR
+1675; ; ;;Itamonte - BR
+1676; ; ;;Itapetinga - BR
+1677; ; ;;Itupiranga - BR
+1678; ; ;;Jeremoabo - BR
+1679; ; ;;Ponta da Serra - BR
+1680; ; ;;Sertao - BR
+1681; ; ;;Tangu\xc3\xa1 - BR
+1682; ; ;;Taquaritinga - BR
+1683; ; ;;Albuquerque N\xc3\xa9 - BR
+1684; ; ;;Alenquer - BR
+1685; ; ;;Bom Jardim de Minas - BR
+1686; ; ;;Bom Jesus do Oeste - BR
+1687; ; ;;Colina - BR
+1688; ; ;;Goias - BR
+1689; ; ;;Reserva - BR
+1690; ; ;;Sao Roque - BR
+1691; ; ;;Varzinha - BR
+1692; ; ;;Ventania - BR
+1693; ; ;;Araruama - BR
+1694; ; ;;Areado - BR
+1695; ; ;;Baixio - BR
+1696; ; ;;Bambu - BR
+1697; ; ;;Entre Rios de Minas - BR
+1698; ; ;;Esperanca - BR
+1699; ; ;;Morro do Pilar - BR
+1700; ; ;;Santa Maria da Boa Vista - BR
+1701; ; ;;Santa Rita de C\xc3\xa1ssia - BR
+1702; ; ;;Sao Benedito - BR
+1703; ; ;;Bu\xc3\xadque - BR
+1704; ; ;;Cotia - BR
+1705; ; ;;Guarapuavinha - BR
+1706; ; ;;Joao Monlevade - BR
+1707; ; ;;Orleans - BR
+1708; ; ;;Presidente Tancredo Neves - BR
+1709; ; ;;SAO JOSE DA COROA GRANDE - BR
+1710; ; ;;Umburanas - BR
+1711; ; ;;Cangati - BR
+1712; ; ;;Casca - BR
+1713; ; ;;Itape - BR
+1714; ; ;;Ivaipora - BR
+1715; ; ;;Pecanha - BR
+1716; ; ;;Pinheiro - BR
+1717; ; ;;Tapirai - BR
+1718; ; ;;Tres Barras - BR
+1719; ; ;;Araguacu - BR
+1720; ; ;;Caraguatatuba - BR
+1721; ; ;;Goncalves - BR
+1722; ; ;;Lagoa Vermelha - BR
+1723; ; ;;NOVA INDEPENDENCIA - BR
+1724; ; ;;Panambi - BR
+1725; ; ;;Restinga Seca - BR
+1726; ; ;;Sampaio Correia - BR
+1727; ; ;;Tacaratu - BR
+1728; ; ;;Tres Passos - BR
+1729; ; ;;Aparecida de Goiania - BR
+1730; ; ;;CANDEIAS - BR
+1731; ; ;;Garibaldi - BR
+1732; ; ;;Jundia\xc3\xad - BR
+1733; ; ;;PACAEMBU - BR
+1734; ; ;;Tau\xc3\xa1 - BR
+1735; ; ;;Augustinopolis - BR
+1736; ; ;;Catavento - BR
+1737; ; ;;Guaruj\xc3\xa1 - BR
+1738; ; ;;Maca\xc3\xadba - BR
+1739; ; ;;Patos - BR
+1740; ; ;;Santana da Vargem - BR
+1741; ; ;;Unamar - BR
+1742; ; ;;Areia Blanca - BR
+1743; ; ;;Carna\xc3\xadba - BR
+1744; ; ;;Guamiranga - BR
+1745; ; ;;Leme - BR
+1746; ; ;;Parana\xc3\xadba - BR
+1747; ; ;;Santa Luzia - BR
+1748; ; ;;Tupi Paulista - BR
+1749; ; ;;Conceicao da Barra - BR
+1750; ; ;;Curionopolis - BR
+1751; ; ;;CURRALINHO - BR
+1752; ; ;;Marcelino Ramos - BR
+1753; ; ;;MOEMA - BR
+1754; ; ;;Moitas - BR
+1755; ; ;;Sao Paulo - BR
+1756; ; ;;Sao Francisco - BR
+1762; ; ;;C\xc3\xadcero Dantas - BR
+1764; ; ;;DOIS RIACHOS - BR
+1765; ; ;;Mangueirinha - BR
+1766; ; ;;Monte Siao - BR
+1767; ; ;;Mora\xc3\xbajo - BR
+1768; ; ;;Pedro Afonso - BR
+1769; ; ;;Santo Expedito - BR
+1770; ; ;;Sao Vicente - BR
+1771; ; ;;Sapucaia - BR
+1772; ; ;;Vargem Linda - BR
+1773; ; ;;Acioli - BR
+1774; ; ;;AMORINOPOLIS - BR
+1775; ; ;;Elesbao Veloso - BR
+1776; ; ;;Forquilha - BR
+1777; ; ;;Guinda - BR
+1778; ; ;;Muniz Freire - BR
+1779; ; ;;Patroc\xc3\xadnio Paulista - BR
+1780; ; ;;Sao Jos\xc3\xa9 do Rio Preto - BR
+1781; ; ;;Serra - BR
+1782; ; ;;Uruacu - BR
+1783; ; ;;Alta Floresta D Oeste - BR
+1784; ; ;;Ariquemes - BR
+1785; ; ;;Cristalina - BR
+1786; ; ;;Estiva - BR
+1787; ; ;;Guaracai - BR
+1788; ; ;;Martin\xc3\xb3polis - BR
+1789; ; ;;Nereu Ramos - BR
+1790; ; ;;Parapua - BR
+1791; ; ;;Sao Joao do Para\xc3\xadso - BR
+1792; ; ;;Simonesia - BR
+1793; ; ;;Uaua - BR
+1794; ; ;;Aracatuba - BR
+1795; ; ;;Carapina - BR
+1796; ; ;;Faxinal - BR
+1797; ; ;;Graca - BR
+1798; ; ;;JAGUARARI - BR
+1799; ; ;;Santa B\xc3\xa1rbara D Oeste - BR
+1800; ; ;;Sume - BR
+1801; ; ;;Treze T\xc3\xadlias - BR
+1802; ; ;;Alvorada do Norte - BR
+1803; ; ;;Apodi - BR
+1804; ; ;;BARREIRA - BR
+1805; ; ;;Campinacu - BR
+1806; ; ;;Congonhas - BR
+1807; ; ;;Jurema - BR
+1808; ; ;;Novo Oriente - BR
+1809; ; ;;Paiai\xc3\xa1 - BR
+1810; ; ;;Rio Bonito - BR
+1812; ; ;;Campo Limpo - BR
+1813; ; ;;Echapora - BR
+1814; ; ;;Franca - BR
+1815; ; ;;INUBIA PAULISTA - BR
+1816; ; ;;Itaquara - BR
+1817; ; ;;Mato Castelhano - BR
+1818; ; ;;Rio Grande - BR
+1819; ; ;;Senador S\xc3\xa1 - BR
+1820; ; ;;Teodoro Sampaio - BR
+1821; ; ;;Agua Parada - BR
+1822; ; ;;Alto Forcacao - BR
+1823; ; ;;Boa Ventura - BR
+1824; ; ;;Cachoeira Paulista - BR
+1825; ; ;;Croat\xc3\xa1 - BR
+1826; ; ;;Jaragu\xc3\xa1 do Sul - BR
+1827; ; ;;Navegantes - BR
+1828; ; ;;Nova Santa Rosa - BR
+1829; ; ;;Planalto - BR
+1830; ; ;;Queimada - BR
+1831; ; ;;Sao Ludgero - BR
+1832; ; ;;Barra da Tijuca - BR
+1833; ; ;;Eun\xc3\xa1polis - BR
+1834; ; ;;Itagimirim - BR
+1835; ; ;;Itaim - BR
+1836; ; ;;Monjolinho - BR
+1837; ; ;;Penha - BR
+1838; ; ;;Perd\xc3\xb5es - BR
+1839; ; ;;Agrestina - BR
+1840; ; ;;Braco do Trombudo - BR
+1841; ; ;;Bras\xc3\xadlia de Minas - BR
+1842; ; ;;Iati - BR
+1843; ; ;;Ibicu\xc3\xad - BR
+1844; ; ;;Porto Murtinho - BR
+1845; ; ;;Posse - BR
+1846; ; ;;SATUBA - BR
+1847; ; ;;Valao do Barro - BR
+1848; ; ;;Valparaiso - BR
+1849; ; ;;Astorga - BR
+1850; ; ;;Campo do Meio - BR
+1851; ; ;;DOURADO - BR
+1852; ; ;;Furnas - BR
+1853; ; ;;Itaruma - BR
+1854; ; ;;Maurilandia - BR
+1855; ; ;;PASSABEM - BR
+1856; ; ;;Santana do Paraiso - BR
+1857; ; ;;Teutonia - BR
+1858; ; ;;\xc3\x81gua Boa - BR
+1859; ; ;;Boa Esperanca - BR
+1860; ; ;;Cruz Vera - BR
+1861; ; ;;Guaimbe - BR
+1862; ; ;;Linha Vit\xc3\xb3ria - BR
+1863; ; ;;Nao-Me-Toque - BR
+1864; ; ;;Quirin\xc3\xb3polis - BR
+1865; ; ;;Sao Mamede - BR
+1866; ; ;;Virgolandia - BR
+1867; ; ;;Alegre - BR
+1868; ; ;;Colonia do Gurgu\xc3\xa9ia - BR
+1869; ; ;;Jacunda - BR
+1870; ; ;;Maracaju - BR
+1871; ; ;;Paraibano - BR
+1872; ; ;;Pen\xc3\xa1polis - BR
+1873; ; ;;Redencao - BR
+1874; ; ;;Sao Sebastiao da Bela Vista - BR
+1875; ; ;;Sooretama - BR
+1876; ; ;;V\xc3\xa1rzea Grande - BR
+1877; ; ;;Campan\xc3\xa1rio - BR
+1878; ; ;;Corb\xc3\xa9lia - BR
+1879; ; ;;Cruzeiro do Oeste - BR
+1880; ; ;;Imba\xc3\xba - BR
+1881; ; ;;Itabira - BR
+1882; ; ;;Jardim Olinda - BR
+1883; ; ;;Travessao - BR
+1884; ; ;;Juti - BR
+1885; ; ;;Nova Uniao - BR
+1886; ; ;;Palmares - BR
+1887; ; ;;Piedade - BR
+1888; ; ;;Pombos - BR
+1889; ; ;;Tapejara - BR
+1890; ; ;;Assa\xc3\xad - BR
+1891; ; ;;Campo Novo do Parecis - BR
+1892; ; ;;Coxim - BR
+1893; ; ;;FRANCISCOPOLIS - BR
+1894; ; ;;Guaraniacu - BR
+1895; ; ;;Medicilandia - BR
+1896; ; ;;ORINDIUVA - BR
+1897; ; ;;Pira\xc3\xbaba - BR
+1898; ; ;;Xapetuba - BR
+1899; ; ;;Apucarana - BR
+1900; ; ;;Baia Alta - BR
+1901; ; ;;Batalha - BR
+1902; ; ;;Gilbu\xc3\xa9s - BR
+1903; ; ;;Mambore - BR
+1904; ; ;;Marip\xc3\xa1 - BR
+1905; ; ;;Rubelita - BR
+1906; ; ;;Sao Joao de Meriti - BR
+1907; ; ;;VIla Pavao - BR
+1908; ; ;;Barca - BR
+1909; ; ;;Caibi - BR
+1910; ; ;;Cajueiro da Praia - BR
+1911; ; ;;Ibiruba - BR
+1912; ; ;;Portelandia - BR
+1913; ; ;;Sao Caitano - BR
+1914; ; ;;Trinta-R\xc3\xa9is - BR
+1915; ; ;;Cacador - BR
+1916; ; ;;Cachoeira - BR
+1918; ; ;;Ituiutaba - BR
+1919; ; ;;Parauapebas - BR
+1920; ; ;;Poxim - BR
+1921; ; ;;Ubaira - BR
+1922; ; ;;Bento Goncalves - BR
+1923; ; ;;Breves - BR
+1924; ; ;;Castro - BR
+1925; ; ;;Ipaussu - BR
+1926; ; ;;Jos\xc3\xa9 Bonif\xc3\xa1cio - BR
+1927; ; ;;LUISLANDIA - BR
+1928; ; ;;Pirangi - BR
+1929; ; ;;Rio Verde - BR
+1930; ; ;;Volta Redonda - BR
+1931; ; ;;Barrento - BR
+1932; ; ;;Boca do Mato - BR
+1933; ; ;;Lauro Muller - BR
+1934; ; ;;Quatigu\xc3\xa1 - BR
+1935; ; ;;Rin\xc3\xb3polis - BR
+1936; ; ;;Salgueiro - BR
+1937; ; ;;Vila Assis - BR
+1938; ; ;;Alagoinha - BR
+1939; ; ;;Alfredo Wagner - BR
+1940; ; ;;Bom Jardim - BR
+1941; ; ;;Bom Sucesso - BR
+1942; ; ;;Conceicao - BR
+1943; ; ;;Paracuru - BR
+1944; ; ;;Rem\xc3\xadgio - BR
+1945; ; ;;Sao Pedro da Aldeia - BR
+1946; ; ;;Venancio Aires - BR
+1947; ; ;;Cambira - BR
+1948; ; ;;Caninde De Sao Francisco - BR
+1949; ; ;;Iguaracu - BR
+1950; ; ;;Itabaiana - BR
+1951; ; ;;Jequi\xc3\xa9 - BR
+1952; ; ;;Pindar\xc3\xa9 Mirim - BR
+1953; ; ;;TAQUARANA - BR
+1954; ; ;;Tomazina - BR
+1955; ; ;;Abaet\xc3\xa9 - BR
+1956; ; ;;Anaurilandia - BR
+1957; ; ;;Belmonte - BR
+1958; ; ;;Bueno Brandao - BR
+1959; ; ;;Ipoema - BR
+1960; ; ;;Joao Ramalho - BR
+1961; ; ;;Mulungu do Morro - BR
+1962; ; ;;Prat\xc3\xa1polis - BR
+1963; ; ;;Primavera - BR
+1964; ; ;;Sao Joaquim da Barra - BR
+1965; ; ;;Sao Jos\xc3\xa9 do Egito - BR
+1966; ; ;;Serra Preta - BR
+1967; ; ;;Diamantina - BR
+1968; ; ;;Espigao D Oeste - BR
+1969; ; ;;Fior\xc3\xb3polis - BR
+1970; ; ;;Mineiros - BR
+1971; ; ;;Morro Azul - BR
+1972; ; ;;RIBEIRAO GRANDE - BR
+1973; ; ;;Camacan - BR
+1974; ; ;;Demerval Lobao - BR
+1975; ; ;;Icara - BR
+1976; ; ;;Igaracu do Tiete - BR
+1977; ; ;;Lajeadinho - BR
+1978; ; ;;Lambari - BR
+1979; ; ;;Nossa Senhora das Dores - BR
+1980; ; ;;Nova Canaa - BR
+1981; ; ;;Pont\xc3\xb5es - BR
+1982; ; ;;Caruaru - BR
+1983; ; ;;Itaobim - BR
+1985; ; ;;I\xc3\xbana - BR
+1986; ; ;;Paramirim - BR
+1987; ; ;;Paus - BR
+1988; ; ;;Pedra Branca - BR
+1989; ; ;;Serrote do Boi - BR
+1990; ; ;;Andrelandia - BR
+1991; ; ;;Buriti dos Lopes - BR
+1992; ; ;;CORURIPE - BR
+1993; ; ;;Guaratinguet\xc3\xa1 - BR
+1994; ; ;;Macuco - BR
+1995; ; ;;Osasco - BR
+1996; ; ;;Presidente Epit\xc3\xa1cio - BR
+1997; ; ;;Sao Jos\xc3\xa9 de Piranhas - BR
+1998; ; ;;Ara\xc3\xbajos - BR
+1999; ; ;;Baleia - BR
+2000; ; ;;Erv\xc3\xa1lia - BR
+2001; ; ;;Floresta - BR
+2002; ; ;;MARILANDIA - BR
+2003; ; ;;Miranda - BR
+2004; ; ;;Rondon - BR
+2005; ; ;;Santa Quint\xc3\xa9ria de Maranhao - BR
+2006; ; ;;Areia Branca - BR
+2007; ; ;;Barra Mansa - BR
+2008; ; ;;Carolina - BR
+2009; ; ;;Conceicao dos Ouros - BR
+2010; ; ;;Guanambi - BR
+2011; ; ;;Igreja Nova - BR
+2012; ; ;;Lenc\xc3\xb3is - BR
+2013; ; ;;Marcolandia - BR
+2014; ; ;;PARANAIGUARA - BR
+2015; ; ;;Santa Luzia do Norte - BR
+2016; ; ;;Turmalina - BR
+2017; ; ;;Aragua\xc3\xadna - BR
+2018; ; ;;Bela Cruz - BR
+2019; ; ;;Cara\xc3\xadba - BR
+2020; ; ;;CORREGO DANTA - BR
+2021; ; ;;GONZAGA - BR
+2022; ; ;;Indiara - BR
+2023; ; ;;Tres Pinheiros - BR
+2024; ; ;;Laguna - BR
+2025; ; ;;Mata Redonda - BR
+2026; ; ;;Pancas - BR
+2027; ; ;;Piquete - BR
+2028; ; ;;Sananduva - BR
+2029; ; ;;Sao Joao do Sobrado - BR
+2030; ; ;;Santo In\xc3\xa1cio - BR
+2031; ; ;;Vanini - BR
+2032; ; ;;Bandeirantes - BR
+2033; ; ;;Guaruj\xc3\xa1 do Sul - BR
+2034; ; ;;Macajuba - BR
+2035; ; ;;Patos - BR
+2036; ; ;;Santana do Capivari - BR
+2037; ; ;;Uniao da Vit\xc3\xb3ria - BR
+2038; ; ;;Almenara - BR
+2039; ; ;;Alterosa - BR
+2040; ; ;;Divino - BR
+2041; ; ;;Fernandes Pinheiro - BR
+2042; ; ;;Monteiro - BR
+2043; ; ;;Moreira Sales - BR
+2044; ; ;;Nova Lima - BR
+2045; ; ;;Sao Vicente de Paula - BR
+2046; ; ;;Sapucaia - BR
+2047; ; ;;Taguatinga - BR
+2048; ; ;;Abre Campo - BR
+2049; ; ;;Airi - BR
+2050; ; ;;Ecoporanga - BR
+2051; ; ;;ESTRELA DE ALAGOAS - BR
+2052; ; ;;Munda\xc3\xba - BR
+2053; ; ;;Niter\xc3\xb3i - BR
+2055; ; ;;Senges - BR
+2056; ; ;;Serra Alta - BR
+2057; ; ;;Aparecida do Rio Doce - BR
+2058; ; ;;Cristianopolis - BR
+2059; ; ;;Garopaba - BR
+2060; ; ;;Milha - BR
+2061; ; ;;Pacaja - BR
+2062; ; ;;Sao Jose dos Pinhais - BR
+2063; ; ;;Timon - BR
+2064; ; ;;Amp\xc3\xa9re - BR
+2065; ; ;;Curitiba - BR
+2066; ; ;;Fortaleza - BR
+2068; ; ;;Moenda - BR
+2069; ; ;;Olho-D \xc3\x81gua do Borges - BR
+2070; ; ;;Sao Miguel do Iguacu - BR
+2071; ; ;;Teixeira Soares - BR
+2072; ; ;;Barreiras - BR
+2073; ; ;;Conselheiro Josino - BR
+2074; ; ;;Guaira - BR
+2075; ; ;;Lav\xc3\xadnia - BR
+2076; ; ;;Piacu - BR
+2077; ; ;;Sao Goncalo - BR
+2078; ; ;;Tupa - BR
+2079; ; ;;Arace - BR
+2080; ; ;;Capinzal - BR
+2081; ; ;;Iomere - BR
+2082; ; ;;Matos Costas - BR
+2083; ; ;;Palmeiras - BR
+2084; ; ;;Salobrinho - BR
+2085; ; ;;Santa B\xc3\xa1rbara do Tug\xc3\xbario - BR
+2086; ; ;;Trindade - BR
+2087; ; ;;Volta Grande - BR
+2088; ; ;;Acu - BR
+2089; ; ;;Bicas - BR
+2090; ; ;;Boa Ventura - BR
+2091; ; ;;CRUCILANDIA - BR
+2092; ; ;;Galvao - BR
+2093; ; ;;Juc\xc3\xa1s - BR
+2094; ; ;;Jurumirim - BR
+2095; ; ;;Navirai - BR
+2096; ; ;;Paicandu - BR
+2097; ; ;;Planalto - BR
+2098; ; ;;Queimadinha - BR
+2099; ; ;;Sao Lu\xc3\xads - BR
+2100; ; ;;Amapora - BR
+2101; ; ;;Campinho - BR
+2102; ; ;;Campo Maior - BR
+2103; ; ;;Cruzinha - BR
+2104; ; ;;Francisco Beltrao - BR
+2105; ; ;;ITACARAMBI - BR
+2106; ; ;;Itai\xc3\xb3 - BR
+2107; ; ;;Moju - BR
+2108; ; ;;Rio Manso - BR
+2109; ; ;;Surubim - BR
+2110; ; ;;Te\xc3\xb3filo Otoni - BR
+2111; ; ;;Alto Garcas - BR
+2112; ; ;;Braganca Paulista - BR
+2113; ; ;;Jangada do Sul - BR
+2114; ; ;;Monte Azul - BR
+2115; ; ;;Nova Serrana - BR
+2116; ; ;;Porto Seguro - BR
+2117; ; ;;Pote - BR
+2118; ; ;;Vila Sape - BR
+2119; ; ;;Caetano Mendes - BR
+2120; ; ;;Dourados - BR
+2121; ; ;;Extracao - BR
+2122; ; ;;Itaqui - BR
+2123; ; ;;Penha do Norte - BR
+2124; ; ;;Sede Alvorada - BR
+2125; ; ;;Solonopole - BR
+2126; ; ;;Agua Azul do Norte - BR
+2127; ; ;;\xc3\x81gua Branca - BR
+2128; ; ;;Boa Esperanca - BR
+2129; ; ;;Ceasa - BR
+2130; ; ;;Ibaiti - BR
+2131; ; ;;JUNQUEIRO - BR
+2132; ; ;;NACIP RAYDAN - BR
+2133; ; ;;Narani\xc3\xba - BR
+2134; ; ;;Piumhi - BR
+2135; ; ;;Sao Manuel - BR
+2136; ; ;;Vale do Anari - BR
+2137; ; ;;Atalaia - BR
+2138; ; ;;Campo do Meio - BR
+2139; ; ;;Douradina - BR
+2140; ; ;;Farinha - BR
+2141; ; ;;Itagua\xc3\xad - BR
+2142; ; ;;Mar do Norte - BR
+2143; ; ;;Passo Fundo - BR
+2144; ; ;;Rio do Oeste - BR
+2145; ; ;;Seabra - BR
+2146; ; ;;Sorocaba - BR
+2147; ; ;;Araras - BR
+2148; ; ;;Campanha - BR
+2149; ; ;;Cordislandia - BR
+2150; ; ;;Descanso - BR
+2151; ; ;;Imbituba - BR
+2152; ; ;;Jaru - BR
+2153; ; ;;Laranja Azeda - BR
+2154; ; ;;Nova Ven\xc3\xa9cia - BR
+2155; ; ;;Piedade dos Gerais - BR
+2156; ; ;;Tapera - BR
+2157; ; ;;Aracaju - BR
+2158; ; ;;Bocai\xc3\xbava - BR
+2159; ; ;;Ipezal - BR
+2160; ; ;;Oriximin\xc3\xa1 - BR
+2161; ; ;;Sao Jos\xc3\xa9 de Ribamar - BR
+2162; ; ;;Bairro de Gaspar Lopes - BR
+2163; ; ;;Cerejeiras - BR
+2164; ; ;;Horizontina - BR
+2165; ; ;;Mamonas - BR
+2166; ; ;;Paulinia - BR
+2167; ; ;;Rumo - BR
+2168; ; ;;Santo Antonio de Lisboa - BR
+2169; ; ;;Uvaia - BR
+2170; ; ;;Casimiro de Abreu - BR
+2171; ; ;;Colorado - BR
+2172; ; ;;Lontra - BR
+2173; ; ;;MARAGOGI - BR
+2174; ; ;;Parnamirim - BR
+2175; ; ;;Pendanga - BR
+2176; ; ;;V\xc3\xa1rzea Nova - BR
+2177; ; ;;Xaxim - BR
+2178; ; ;;BARRETO - BR
+2179; ; ;;Borborema - BR
+2180; ; ;;Caridade - BR
+2181; ; ;;Itamb\xc3\xa9 - BR
+2182; ; ;;Mariz\xc3\xb3polis - BR
+2183; ; ;;Ribeirao Pires - BR
+2184; ; ;;Rio Azul - BR
+2185; ; ;;Sao Joao del Rei - BR
+2186; ; ;;Vila da Serra - BR
+2187; ; ;;Armacao dos Buzios - BR
+2189; ; ;;Bariri - BR
+2190; ; ;;Brejetuba - BR
+2191; ; ;;Brilhante - BR
+2192; ; ;;CAICARA - BR
+2193; ; ;;Cajuru - BR
+2194; ; ;;Guaragi - BR
+2195; ; ;;Ibitiara - BR
+2196; ; ;;Santa Rosa de Viterbo - BR
+2197; ; ;;Sao Carlos - BR
+2198; ; ;;Bacaxa - BR
+2199; ; ;;Cacapava - BR
+2200; ; ;;Chavantes - BR
+2201; ; ;;Itabata - BR
+2202; ; ;;Itinga do Maranhao - BR
+2203; ; ;;Poco de Caldas - BR
+2204; ; ;;Quatro Barras - BR
+2205; ; ;;Capelinha - BR
+2206; ; ;;Cataguases - BR
+2207; ; ;;Itapoa - BR
+2208; ; ;;Jacupemba - BR
+2209; ; ;;Lageado - BR
+2210; ; ;;Lupionopolis - BR
+2211; ; ;;Pedro Gomes - BR
+2212; ; ;;Pirapora - BR
+2213; ; ;;Pracinha - BR
+2214; ; ;;Regeneracao - BR
+2215; ; ;;Varjota - BR
+2216; ; ;;Wanderlandia - BR
+2217; ; ;;Arax\xc3\xa1 - BR
+2218; ; ;;Camboriu - BR
+2219; ; ;;Dian\xc3\xb3polis - BR
+2220; ; ;;Iguatu - BR
+2221; ; ;;Santa Isabel - BR
+2222; ; ;;Tangara - BR
+2223; ; ;;Belo Horizonte - BR
+2226; ; ;;Bom Jardim da Serra - BR
+2227; ; ;;Goiania - BR
+2228; ; ;;Moeda - BR
+2229; ; ;;Olindina - BR
+2230; ; ;;Paragominas - BR
+2231; ; ;;Sao Jorge Do Patrocinio - BR
+2232; ; ;;Sao Pedro da Cipa - BR
+2233; ; ;;Buritis - BR
+2234; ; ;;Cana-brava - BR
+2235; ; ;;Craveiro - BR
+2236; ; ;;Enseada - BR
+2237; ; ;;Esp\xc3\xadrito Santo do Dourado - BR
+2238; ; ;;Itumbiara - BR
+2239; ; ;;MIRABELA - BR
+2240; ; ;;Ouricuri - BR
+2241; ; ;;Promissao - BR
+2242; ; ;;Sertania - BR
+2243; ; ;;Toritama - BR
+2244; ; ;;Abarrancamento - BR
+2245; ; ;;Alagoinhas - BR
+2246; ; ;;Anchieta - BR
+2247; ; ;;Cururupu - BR
+2248; ; ;;Jacare\xc3\xad - BR
+2249; ; ;;JOAQUIM FELICIO - BR
+2250; ; ;;Porangaba - BR
+2251; ; ;;Pre\xc3\xa1 - BR
+2252; ; ;;Reriutaba - BR
+2253; ; ;;Firminopolis - BR
+2254; ; ;;Itapaci - BR
+2255; ; ;;Mari - BR
+2256; ; ;;Mar\xc3\xadlia - BR
+2257; ; ;;Paraiso Do Norte - BR
+2258; ; ;;Paranacity - BR
+2259; ; ;;Riachao das Neves - BR
+2260; ; ;;Sao Sebastiao do Para\xc3\xadso - BR
+2261; ; ;;BUENOPOLIS - BR
+2262; ; ;;Guarapary - BR
+2263; ; ;;Guaratuba - BR
+2264; ; ;;Icara - BR
+2265; ; ;;Mucuri - BR
+2266; ; ;;Nossa Senhora das Gracas - BR
+2267; ; ;;Nova Crixas - BR
+2268; ; ;;Sao Bernardo - BR
+2269; ; ;;Anguera - BR
+2270; ; ;;Candido Mota - BR
+2271; ; ;;Escada - BR
+2272; ; ;;Ipor\xc3\xa1 - BR
+2273; ; ;;Maiquinique - BR
+2274; ; ;;Paz de Salobro - BR
+2275; ; ;;Rondon do Para - BR
+2276; ; ;;Serran\xc3\xb3polis - BR
+2277; ; ;;Alegrete - BR
+2278; ; ;;Colatina - BR
+2279; ; ;;Cosm\xc3\xb3polis - BR
+2280; ; ;;JOANESIA - BR
+2281; ; ;;Lajeado - BR
+2282; ; ;;Ponte Nova - BR
+2283; ; ;;Presidente M\xc3\xa9dici - BR
+2284; ; ;;Umarizeira - BR
+2285; ; ;;Venda Nova - BR
+2286; ; ;;Alpin\xc3\xb3polis - BR
+2287; ; ;;Brasileira - BR
+2288; ; ;;Camanducaia - BR
+2289; ; ;;DIVINOPOLIS DO TOCANTINS - BR
+2290; ; ;;Feira de Santana - BR
+2291; ; ;;Itapecuru Mirim - BR
+2292; ; ;;Jaicos - BR
+2293; ; ;;Montinho - BR
+2294; ; ;;Porto Velho - BR
+2295; ; ;;Sapeacu - BR
+2296; ; ;;Americana - BR
+2297; ; ;;Bom Jesus do Itabapoana - BR
+2298; ; ;;Campo Belo - BR
+2299; ; ;;Currais Novos - BR
+2300; ; ;;Formosa do Rio Preto - BR
+2301; ; ;;Itai\xc3\xa1 - BR
+2302; ; ;;Jesuania - BR
+2303; ; ;;Mogi Guacu - BR
+2304; ; ;;Olho D Agua - BR
+2305; ; ;;Ponto Belo - BR
+2306; ; ;;Rio das Ostras - BR
+2307; ; ;;Sao Nicolau - BR
+2308; ; ;;Antonio Joao - BR
+2309; ; ;;Boa Sorte - BR
+2310; ; ;;Canarana - BR
+2311; ; ;;Crist\xc3\xb3polis - BR
+2312; ; ;;Gameleira - BR
+2313; ; ;;Iraucuba - BR
+2314; ; ;;Timbiras - BR
+2315; ; ;;Julio De Castilhos - BR
+2316; ; ;;Minas Novas - BR
+2317; ; ;;Ouro Preto - BR
+2318; ; ;;Planaltina - BR
+2319; ; ;;Rolandia - BR
+2320; ; ;;Sao Lourenco - BR
+2321; ; ;;Aracua\xc3\xad - BR
+2322; ; ;;Bela Vista do Para\xc3\xadso - BR
+2323; ; ;;Capit\xc3\xb3lio - BR
+2324; ; ;;Corrego Novo - BR
+2325; ; ;;Goiatuba - BR
+2326; ; ;;Inhambupe - BR
+2327; ; ;;Tres Marias - BR
+2328; ; ;;Vit\xc3\xb3ria do Mearim - BR
+2329; ; ;;Lagoa Santa - BR
+2330; ; ;;Matilde - BR
+2331; ; ;;Palmitos - BR
+2332; ; ;;Piracicaba - BR
+2333; ; ;;Salto do Lontra - BR
+2334; ; ;;Sao Joao Nepomuceno - BR
+2335; ; ;;Barra Verde - BR
+2336; ; ;;Carmo do Rio Claro - BR
+2337; ; ;;Iguape - BR
+2338; ; ;;LEANDRO FERREIRA - BR
+2339; ; ;;Paranava\xc3\xad - BR
+2340; ; ;;Peru\xc3\xadbe - BR
+2341; ; ;;Santa Luzia - BR
+2342; ; ;;Turvolandia - BR
+2343; ; ;;Vicentina - BR
+2344; ; ;;Barao de Cocais - BR
+2345; ; ;;Catanduvas - BR
+2346; ; ;;IBIRACATU - BR
+2347; ; ;;Luzilandia - BR
+2348; ; ;;Santa Terezinha de Itaipu - BR
+2349; ; ;;Uracania - BR
+2350; ; ;;Apiai - BR
+2351; ; ;;B. Vista - BR
+2352; ; ;;Crissiumal - BR
+2353; ; ;;Gaviao - BR
+2354; ; ;;Mangabeira - BR
+2355; ; ;;MIGUEL CALMON - BR
+2356; ; ;;Pacuj\xc3\xa1 - BR
+2357; ; ;;Santo Augusto - BR
+2358; ; ;;SIMAO PEREIRA - BR
+2359; ; ;;Toledo - BR
+2360; ; ;;\xc3\x81guas de Lind\xc3\xb3ia - BR
+2361; ; ;;Coronel Fabriciano - BR
+2362; ; ;;Governador Nunes Freire - BR
+2363; ; ;;Munhoz - BR
+2364; ; ;;Pao de Ac\xc3\xbacar - BR
+2365; ; ;;Sao Domingos - BR
+2366; ; ;;Senhora do Carmo - BR
+2367; ; ;;Tres Voltas - BR
+2368; ; ;;Alto Boa Vista - BR
+2369; ; ;;BOZANO - BR
+2370; ; ;;Japeri - BR
+2371; ; ;;Monte Castelo - BR
+2372; ; ;;Nova Prata Do Iguacu - BR
+2373; ; ;;Porto Lucena - BR
+2374; ; ;;Vilhena - BR
+2375; ; ;;Campo Grande - BR
+2376; ; ;;Cunha Pora - BR
+2377; ; ;;Frade - BR
+2378; ; ;;Itacuruca - BR
+2379; ; ;;Rio Espera - BR
+2380; ; ;;Sao Miguel Arcanjo - BR
+2381; ; ;;Telemaco Borba - BR
+2382; ; ;;Afogados da Ingazeira - BR
+2383; ; ;;\xc3\x81gua Doce - BR
+2384; ; ;;Cachoeira do Brumado - BR
+2385; ; ;;Ita\xc3\xbana - BR
+2387; ; ;;Mutu\xc3\xadpe - BR
+2388; ; ;;Nat\xc3\xa9rcia - BR
+2389; ; ;;Quecaba - BR
+2390; ; ;;Cafeara - BR
+2391; ; ;;Dracena - BR
+2392; ; ;;Euclidelandia - BR
+2393; ; ;;Itapu\xc3\xad - BR
+2394; ; ;;Rancho Alegre - BR
+2395; ; ;;Senador Mourao - BR
+2396; ; ;;Sobral - BR
+2397; ; ;;Barra do Sabi\xc3\xa1 - BR
+2398; ; ;;Confresa - BR
+2399; ; ;;Conservat\xc3\xb3ria - BR
+2400; ; ;;Guaibim - BR
+2401; ; ;;Guajiru - BR
+2402; ; ;;Limoeiro - BR
+2403; ; ;;Novo Hamburgo - BR
+2405; ; ;;Sao Joao Batista - BR
+2406; ; ;;Tucuma - BR
+2407; ; ;;Tuparendi - BR
+2408; ; ;;Assis - BR
+2409; ; ;;At\xc3\xadlio Viv\xc3\xa1cqua - BR
+2410; ; ;;Dores do Indai\xc3\xa1 - BR
+2411; ; ;;F\xc3\xa1tima - BR
+2412; ; ;;Manten\xc3\xb3polis - BR
+2413; ; ;;Maracacum\xc3\xa9 - BR
+2414; ; ;;Passa Tempo - BR
+2415; ; ;;Pato Bragado - BR
+2416; ; ;;Sucesso - BR
+2417; ; ;;Bituruna - BR
+2418; ; ;;Caxambu do Sul - BR
+2419; ; ;;Cruz das Almas - BR
+2420; ; ;;Ibicara\xc3\xad - BR
+2421; ; ;;Juquia - BR
+2422; ; ;;Pirpirituba - BR
+2423; ; ;;Quinta do Sol - BR
+2424; ; ;;Sao Luiz do Norte - BR
+2425; ; ;;Valenca do Piau\xc3\xad - BR
+2426; ; ;;Aracatiara - BR
+2427; ; ;;Cacique Doble - BR
+2428; ; ;;Carandai - BR
+2429; ; ;;Indaiatuba - BR
+2430; ; ;;Itarar\xc3\xa9 - BR
+2431; ; ;;matupa - BR
+2432; ; ;;Palmeira - BR
+2433; ; ;;Pequi\xc3\xa1 - BR
+2434; ; ;;Santa B\xc3\xa1rbara - BR
+2435; ; ;;Terra Rica - BR
+2436; ; ;;Alto Rio Novo - BR
+2437; ; ;;Bastos - BR
+2438; ; ;;Boqueirao do Ces\xc3\xa1rio - BR
+2439; ; ;;Cardoso Moreira - BR
+2440; ; ;;FLEXEIRAS - BR
+2441; ; ;;Grosso - BR
+2442; ; ;;Itamarandiba - BR
+2443; ; ;;M\xc3\xa1rio Campos - BR
+2444; ; ;;Ribera do Pombal - BR
+2445; ; ;;Sao Joao da Boa Vista - BR
+2446; ; ;;Vila Nova - BR
+2447; ; ;;Capao Alto - BR
+2448; ; ;;Joaquim T\xc3\xa1vora - BR
+2449; ; ;;Medeiros Neto - BR
+2450; ; ;;PIRATININGA - BR
+2451; ; ;;Rio Paranaiba - BR
+2452; ; ;;Teresina - BR
+2453; ; ;;Xambre - BR
+2454; ; ;;Bag\xc3\xa9 - BR
+2455; ; ;;Chapada do Norte - BR
+2456; ; ;;Iacu - BR
+2457; ; ;;Malacacheta - BR
+2458; ; ;;PAULISTAS - BR
+2459; ; ;;Santo Antonio - BR
+2460; ; ;;Trairi - BR
+2461; ; ;;Urupes - BR
+2462; ; ;;Arraial do Cabo - BR
+2463; ; ;;Barra Bonita - BR
+2464; ; ;;Guaramirim - BR
+2465; ; ;;Ibiti\xc3\xbara de Minas - BR
+2466; ; ;;Santa Rita do Sapuca\xc3\xad - BR
+2467; ; ;;Sao Bras do Suacui - BR
+2468; ; ;;Sao Jos\xc3\xa9 do Calcado - BR
+2469; ; ;;Araquari - BR
+2470; ; ;;Cambuquira - BR
+2471; ; ;;Ilha Solteira - BR
+2472; ; ;;JARAMATAIA - BR
+2473; ; ;;Laranjeiras - BR
+2474; ; ;;Picarras - BR
+2475; ; ;;Porto Euclides Da Cunha - BR
+2476; ; ;;Santa Helena de Goi\xc3\xa1s - BR
+2477; ; ;;Castelo - BR
+2478; ; ;;Comodoro - BR
+2479; ; ;;Itapina - BR
+2480; ; ;;Itaporanga - BR
+2481; ; ;;Jacon\xc3\xa9 - BR
+2482; ; ;;Jaguapita - BR
+2483; ; ;;Registro do Araguaia - BR
+2484; ; ;;V\xc3\xa1rzea Alegre - BR
+2485; ; ;;Lu\xc3\xads Correia - BR
+2486; ; ;;Maranhaozinho - BR
+2487; ; ;;Pelotas - BR
+2488; ; ;;Pranchita - BR
+2489; ; ;;Recife - BR
+2491; ; ;;C\xc3\xa1ceres - BR
+2493; ; ;;Hercili\xc3\xb3polis - BR
+2494; ; ;;Itu - BR
+2495; ; ;;Mandaguacu - BR
+2496; ; ;;Paudalho - BR
+2497; ; ;;Poc\xc3\xb5es - BR
+2498; ; ;;Prudent\xc3\xb3polis - BR
+2499; ; ;;Santo Antonio do Caiua - BR
+2500; ; ;;Barbalha - BR
+2501; ; ;;Bemposta - BR
+2502; ; ;;Brejo Santo - BR
+2503; ; ;;Cajati - BR
+2504; ; ;;Ibiraiaras - BR
+2505; ; ;;Ipatinga - BR
+2506; ; ;;Santa Tereza do Oeste - BR
+2507; ; ;;CARMESIA - BR
+2508; ; ;;Figueira - BR
+2509; ; ;;Itanhandu - BR
+2510; ; ;;Mariana - BR
+2511; ; ;;Paraju - BR
+2513; ; ;;Sao Simao - BR
+2514; ; ;;Ub\xc3\xa1 - BR
+2515; ; ;;Videira - BR
+2516; ; ;;An\xc3\xa1polis - BR
+2517; ; ;;Corumba\xc3\xadba - BR
+2518; ; ;;Joao Neiva - BR
+2519; ; ;;Lagoa do Piaui - BR
+2520; ; ;;Piraju - BR
+2521; ; ;;Pontal do Coruripe - BR
+2522; ; ;;Porecatu - BR
+2523; ; ;;Tres de Maio - BR
+2524; ; ;;Ano Bom - BR
+2525; ; ;;Cabrob\xc3\xb3 - BR
+2526; ; ;;Encruzo - BR
+2527; ; ;;Esperantina - BR
+2528; ; ;;GETULINA - BR
+2529; ; ;;Israelandia - BR
+2530; ; ;;Iturama - BR
+2531; ; ;;Roda Velha - BR
+2532; ; ;;Rosanela - BR
+2533; ; ;;Sete Lagoas - BR
+2535; ; ;;Bodoquena - BR
+2536; ; ;;Brun\xc3\xb3polis - BR
+2537; ; ;;Folha Mi\xc3\xbada - BR
+2538; ; ;;Missao Velha - BR
+2539; ; ;;Muliterno - BR
+2540; ; ;;Nortelandia - BR
+2541; ; ;;Nova Erechim - BR
+2542; ; ;;Orestina - BR
+2543; ; ;;Sao Pedro - BR
+2544; ; ;;Aratuipe - BR
+2545; ; ;;Areal - BR
+2546; ; ;;Cambar\xc3\xa1 - BR
+2547; ; ;;Diadema - BR
+2548; ; ;;Pinar\xc3\xa9 - BR
+2549; ; ;;Santa Maria do Par\xc3\xa1 - BR
+2550; ; ;;Tanque - BR
+2551; ; ;;Tapiramuta - BR
+2552; ; ;;Alcin\xc3\xb3polis - BR
+2553; ; ;;Cascavel - BR
+2554; ; ;;Cocalandia - BR
+2555; ; ;;Colinas - BR
+2556; ; ;;Jaboticabal - BR
+2557; ; ;;Presidente Castelo Branco - BR
+2558; ; ;;Uberlandia - BR
+2559; ; ;;Umuarama - BR
+2560; ; ;;Vassouras - BR
+2561; ; ;;Baixo Guandu - BR
+2562; ; ;;Canhotinho - BR
+2563; ; ;;Erechim - BR
+2564; ; ;;Ira\xc3\xad - BR
+2565; ; ;;Mira\xc3\xad - BR
+2566; ; ;;Pedra - BR
+2567; ; ;;Rondinha - BR
+2568; ; ;;Serrinha - BR
+2569; ; ;;Bauxita - BR
+2570; ; ;;Bom Jesus da Lapa - BR
+2571; ; ;;Goiabeira - BR
+2572; ; ;;Guararapes - BR
+2573; ; ;;Mucaja\xc3\xad - BR
+2574; ; ;;Nova Aurora - BR
+2575; ; ;;Sao Bento - BR
+2576; ; ;;SAO JOSE DA TAPERA - BR
+2577; ; ;;Amola Faca - BR
+2578; ; ;;Campo Bonito - BR
+2579; ; ;;Formoso - BR
+2580; ; ;;Ji Paran\xc3\xa1 - BR
+2581; ; ;;Olho d \xc3\x81gua - BR
+2582; ; ;;Rio de Janeiro - BR
+2586; ; ;;Taubat\xc3\xa9 - BR
+2587; ; ;;Aparecida - BR
+2588; ; ;;Canarana - BR
+2589; ; ;;Gandu - BR
+2590; ; ;;Junco do Serid\xc3\xb3 - BR
+2591; ; ;;Ouro Verde - BR
+2592; ; ;;Rolim Moura - BR
+2593; ; ;;Timb\xc3\xb3 - BR
+2594; ; ;;Banabuiu - BR
+2595; ; ;;Caracara\xc3\xad - BR
+2596; ; ;;Cir\xc3\xadaco - BR
+2597; ; ;;Goioere - BR
+2598; ; ;;Ibicuitinga - BR
+2599; ; ;;Lagoa Seca - BR
+2600; ; ;;Tres Palmeiras - BR
+2601; ; ;;Manguinho - BR
+2602; ; ;;Palotina - BR
+2603; ; ;;Pedra Preta - BR
+2604; ; ;;PONTO NOVO - BR
+2605; ; ;;Salvador - BR
+2606; ; ;;Sao Nicolau - BR
+2607; ; ;;Augusto de Lima - BR
+2608; ; ;;Catol\xc3\xa9 do Rocha - BR
+2609; ; ;;Irece - BR
+2610; ; ;;Lebon Regis - BR
+2611; ; ;;Mineirolandia - BR
+2612; ; ;;Paranagu\xc3\xa1 - BR
+2613; ; ;;Planaltina Do Parana - BR
+2614; ; ;;Santa Luzia - BR
+2615; ; ;;Sao Lourenco Do Sul - BR
+2616; ; ;;Tuparetama - BR
+2617; ; ;;Bel\xc3\xa9m - BR
+2618; ; ;;Coronel Murta - BR
+2619; ; ;;Dois Vizinhos - BR
+2620; ; ;;Inhapim - BR
+2621; ; ;;Maruim - BR
+2622; ; ;;Pira\xc3\xad - BR
+2623; ; ;;Sao Joao do Para\xc3\xadso - BR
+2624; ; ;;Vitorino - BR
+2625; ; ;;Acopiara - BR
+2626; ; ;;Barracao - BR
+2627; ; ;;Conceicao de Macabu - BR
+2628; ; ;;Eliseu Martins - BR
+2629; ; ;;Iguaraci - BR
+2630; ; ;;Marcionilio Souza - BR
+2631; ; ;;Muqui - BR
+2632; ; ;;Petrolina - BR
+2633; ; ;;Sao Francisco - BR
+2634; ; ;;Vicosa - BR
+2635; ; ;;\xc3\x81guia Branca - BR
+2636; ; ;;Barao de Graja\xc3\xba - BR
+2637; ; ;;Cupira - BR
+2638; ; ;;Estreito - BR
+2639; ; ;;Ibiraci - BR
+2640; ; ;;Moema - BR
+2641; ; ;;Nestor Gomes - BR
+2642; ; ;;Pedro Can\xc3\xa1rio - BR
+2643; ; ;;Sao Miguel do Guama - BR
+2644; ; ;;Siqueira Campos - BR
+2645; ; ;;Varginha - BR
+2646; ; ;;Alta Floresta - BR
+2647; ; ;;Babilonia - BR
+2648; ; ;;Cristalandia - BR
+2649; ; ;;Feliz - BR
+2650; ; ;;Guiricema - BR
+2651; ; ;;Miguelopolis - BR
+2652; ; ;;NOVA IORQUE - BR
+2653; ; ;;Patu - BR
+2654; ; ;;SAO JOSE DO VALE DO RIO PRETO - BR
+2655; ; ;;Tacima - BR
+2656; ; ;;Urubici - BR
+2657; ; ;;ALVORADA DO OESTE - BR
+2658; ; ;;Ariranha - BR
+2659; ; ;;CAMPINAPOLIS - BR
+2660; ; ;;ITAPURA - BR
+2661; ; ;;Linhares - BR
+2662; ; ;;NOVO SAO JOAQUIM - BR
+2663; ; ;;Parati - BR
+2664; ; ;;Rio Branco - BR
+2665; ; ;;Rio Fundo - BR
+2666; ; ;;Senador Pompeu - BR
+2667; ; ;;Tenente Portela - BR
+2668; ; ;;Braco do Norte - BR
+2669; ; ;;Caratinga - BR
+2670; ; ;;Furquim - BR
+2671; ; ;;Graciosa - BR
+2672; ; ;;Juatama - BR
+2673; ; ;;Monte Horebe - BR
+2674; ; ;;Porto Morrinho - BR
+2675; ; ;;Tiangua - BR
+2676; ; ;;\xc3\x81gua Quente - BR
+2677; ; ;;APORE - BR
+2678; ; ;;Cachoeiras de Macacu - BR
+2679; ; ;;Cafelandia - BR
+2680; ; ;;Eugenopolis - BR
+2681; ; ;;Rancho Alegre - BR
+2682; ; ;;Socorro - BR
+2683; ; ;;Faxinal do C\xc3\xa9u - BR
+2684; ; ;;Jaguar\xc3\xa9 - BR
+2685; ; ;;JAPONVAR - BR
+2686; ; ;;Nova Rosalandia - BR
+2687; ; ;;Quedas Do Iguacu - BR
+2689; ; ;;Assis Chateaubriand - BR
+2690; ; ;;Brasilinha - BR
+2691; ; ;;DORES DO TURVO - BR
+2692; ; ;;Imperatriz - BR
+2693; ; ;;Independencia - BR
+2694; ; ;;Matip\xc3\xb3 - BR
+2695; ; ;;Passa Tres - BR
+2696; ; ;;SAUBARA - BR
+2697; ; ;;Visconde de Imb\xc3\xa9 - BR
+2698; ; ;;Afonso Cl\xc3\xa1udio - BR
+2699; ; ;;Barra de Sao Francisco - BR
+2700; ; ;;Barra do Sa\xc3\xad - BR
+2701; ; ;;Congonhal - BR
+2702; ; ;;Iara - BR
+2703; ; ;;Itatiaia - BR
+2704; ; ;;Mutunopolis - BR
+2705; ; ;;Pereira Barreto - BR
+2706; ; ;;Sao Gabriel da Palha - BR
+2707; ; ;;Sao Joao d Alianca - BR
+2708; ; ;;Vacaria - BR
+2709; ; ;;Aracatu - BR
+2710; ; ;;Cacoal - BR
+2711; ; ;;Cruzaltinha - BR
+2712; ; ;;Itaete - BR
+2713; ; ;;Manuel Duarte - BR
+2714; ; ;;Palmeira Das Missoes - BR
+2715; ; ;;Quixaba - BR
+2717; ; ;;Caxias - BR
+2718; ; ;;GUAICARA - BR
+2719; ; ;;Jana\xc3\xbaba - BR
+2720; ; ;;Monjolos - BR
+2721; ; ;;Pitangui - BR
+2722; ; ;;Santar\xc3\xa9m - BR
+2723; ; ;;Tucunduva - BR
+2724; ; ;;Ascurra - BR
+2725; ; ;;Breu Branco - BR
+2726; ; ;;Guarani - BR
+2727; ; ;;Mucambo - BR
+2728; ; ;;Santa Rosa - BR
+2729; ; ;;Seara - BR
+2730; ; ;;Bent\xc3\xb3polis - BR
+2731; ; ;;Boquim - BR
+2732; ; ;;Campo Verde - BR
+2733; ; ;;Careacu - BR
+2734; ; ;;Frecheirinha - BR
+2735; ; ;;Guacu\xc3\xad - BR
+2736; ; ;;Itamaraty - BR
+2737; ; ;;PARAIPABA - BR
+2738; ; ;;Sao Sebastiao de Passe - BR
+2739; ; ;;Aquidauana - BR
+2740; ; ;;Colmeia - BR
+2741; ; ;;Cruzeiro do Sul - BR
+2742; ; ;;Giru\xc3\xa1 - BR
+2743; ; ;;Itabirito - BR
+2744; ; ;;Maraca\xc3\xad - BR
+2745; ; ;;Penaforte - BR
+2746; ; ;;Pomerode - BR
+2747; ; ;;Sao Caetano do Sul - BR
+2748; ; ;;V\xc3\xa1rzea da Roca - BR
+2749; ; ;;Ararangu\xc3\xa1 - BR
+2750; ; ;;Baguari - BR
+2751; ; ;;Crate\xc3\xbas - BR
+2752; ; ;;Lapa - BR
+2753; ; ;;Mallet - BR
+2754; ; ;;Medina - BR
+2755; ; ;;Pires - BR
+2756; ; ;;Santa Cruz do Monte Castelo - BR
+2757; ; ;;Santo Antonio da Platina - BR
+2758; ; ;;Triunfo - BR
+2759; ; ;;Uruque - BR
+2760; ; ;;Vila Nova - BR
+2761; ; ;;Castilho - BR
+2762; ; ;;Itapiranga - BR
+2763; ; ;;Itaporanga d Ajuda - BR
+2764; ; ;;Luis Eduardo Magalhaes - BR
+2765; ; ;;Parnaiba - BR
+2767; ; ;;Poxor\xc3\xa9o - BR
+2768; ; ;;Prata - BR
+2769; ; ;;Ubaitaba - BR
+2770; ; ;;Cabucu - BR
+2771; ; ;;Hidrolandia - BR
+2772; ; ;;Ita\xc3\xbana do Sul - BR
+2773; ; ;;Ituber\xc3\xa1 - BR
+2774; ; ;;Paula Pessoa - BR
+2775; ; ;;Picos - BR
+2776; ; ;;Barbosa Ferraz - BR
+2777; ; ;;Bocaina - BR
+2778; ; ;;Capao Bonito - BR
+2779; ; ;;Ibirataia - BR
+2780; ; ;;Jacu\xc3\xadpe - BR
+2781; ; ;;Lad\xc3\xa1rio - BR
+2782; ; ;;Recreio dos Bandeirantes - BR
+2783; ; ;;Salinas - BR
+2784; ; ;;Barreiros - BR
+2785; ; ;;Jose Raydan - BR
+2786; ; ;;Laranjeiras do Sul - BR
+2787; ; ;;Porto Afonso Camargo - BR
+2788; ; ;;Quat\xc3\xa1 - BR
+2789; ; ;;Rio Vermelho - BR
+2790; ; ;;Santa Ines - BR
+2791; ; ;;Santo Antonio do Pinhal - BR
+2792; ; ;;Vigia - BR
+2793; ; ;;Guaraciaba do Norte - BR
+2794; ; ;;Jequitib\xc3\xa1 - BR
+2795; ; ;;Joao Pessoa - BR
+2796; ; ;;Morro do Coco - BR
+2797; ; ;;Mulungu - BR
+2798; ; ;;Pinhalzinho - BR
+2799; ; ;;Piraju\xc3\xad - BR
+2800; ; ;;Santa Quit\xc3\xa9ria - BR
+2801; ; ;;Taquaras - BR
+2802; ; ;;Bom Sucesso - BR
+2803; ; ;;Campos Novos - BR
+2804; ; ;;Carmo da Cachoeira - BR
+2805; ; ;;Ipojuca - BR
+2806; ; ;;Itanh\xc3\xa9m - BR
+2807; ; ;;Osorio - BR
+2808; ; ;;Parambu - BR
+2809; ; ;;Sao Jos\xc3\xa9 do Ouro - BR
+2810; ; ;;Sao Valerio - BR
+2811; ; ;;Toledo - BR
+2812; ; ;;Alagoa Grande - BR
+2813; ; ;;Boituva - BR
+2814; ; ;;Canoas - BR
+2815; ; ;;Jaboticatubas - BR
+2816; ; ;;LAGOA DOURADA - BR
+2817; ; ;;Mococa - BR
+2818; ; ;;Nossa Senhora da Gl\xc3\xb3ria - BR
+2819; ; ;;Tres Ilhas - BR
+2820; ; ;;Alice - BR
+2821; ; ;;Anta - BR
+2822; ; ;;Diamante - BR
+2823; ; ;;Engenheiro Beltrao - BR
+2824; ; ;;Figuiera - BR
+2825; ; ;;Primavera - BR
+2826; ; ;;Ribeirao Cascalheira - BR
+2827; ; ;;Rodeador - BR
+2828; ; ;;Abadiania - BR
+2829; ; ;;Batatais - BR
+2830; ; ;;Bauzinho - BR
+2831; ; ;;Carvalh\xc3\xb3polis - BR
+2832; ; ;;Cascudo - BR
+2833; ; ;;Floresta Azul - BR
+2834; ; ;;Itaperuna - BR
+2835; ; ;;Sao Joaquim - BR
+2836; ; ;;Sao Jos\xc3\xa9 de Mipibu - BR
+2837; ; ;;Ubirata - BR
+2838; ; ;;Unai - BR
+2839; ; ;;Buriticupu - BR
+2840; ; ;;Camacari - BR
+2841; ; ;;Camb\xc3\xa9 - BR
+2842; ; ;;Igatu - BR
+2843; ; ;;Paulo Frontin - BR
+2844; ; ;;Serra Talhada - BR
+2845; ; ;;Serrota - BR
+2846; ; ;;Tapejara - BR
+2848; ; ;;Cod\xc3\xb3 - BR
+2849; ; ;;Goiabeira - BR
+2850; ; ;;Iva\xc3\xad - BR
+2851; ; ;;Mirand\xc3\xb3polis - BR
+2852; ; ;;Ponte Alta - BR
+2853; ; ;;Sao Bento do Sapuca\xc3\xad - BR
+2854; ; ;;Travessao - BR
+2855; ; ;;Angatuba - BR
+2856; ; ;;Arauc\xc3\xa1ria - BR
+2857; ; ;;Deod\xc3\xa1polis - BR
+2858; ; ;;Erval Velho - BR
+2859; ; ;;Madre de Deus de Minas - BR
+2860; ; ;;Maribondo - BR
+2861; ; ;;Retiro - BR
+2862; ; ;;Rondinha - BR
+2863; ; ;;Bela Vista - BR
+2864; ; ;;C\xc3\xb3rrego do Ouro - BR
+2865; ; ;;\xc3\x8dndios - BR
+2866; ; ;;Matao - BR
+2867; ; ;;Pirabeiraba - BR
+2868; ; ;;Sao Joao dos Patos - BR
+2869; ; ;;Vitoria - BR
+2870; ; ;;Boa Esperanca do Sul - BR
+2871; ; ;;Cristina - BR
+2872; ; ;;Iramaia - BR
+2873; ; ;;Mimoso - BR
+2874; ; ;;Placas - BR
+2875; ; ;;Sao Leonardo - BR
+2876; ; ;;Bandeirinha - BR
+2877; ; ;;Clevelandia - BR
+2878; ; ;;Ibiquera - BR
+2879; ; ;;Manoel Ribas - BR
+2880; ; ;;PEDRAS DE MARIA DA CRUZ - BR
+2881; ; ;;Santos - BR
+2883; ; ;;Vargem Grande - BR
+2884; ; ;;Barra Seca - BR
+2885; ; ;;Conc\xc3\xb3rdia - BR
+2886; ; ;;Iguaba Grande - BR
+2887; ; ;;Marechal Deodoro - BR
+2888; ; ;;Perola - BR
+2889; ; ;;Sao Francisco do Guapore - BR
+2890; ; ;;Verdelandia - BR
+2891; ; ;;Amarantina - BR
+2892; ; ;;Anag\xc3\xa9 - BR
+2893; ; ;;Argolo - BR
+2894; ; ;;Formiga - BR
+2895; ; ;;Foz do Iguacu - BR
+2897; ; ;;Guara - BR
+2898; ; ;;Oleg\xc3\xa1rio Maciel - BR
+2899; ; ;;Olhos Dagua - BR
+2900; ; ;;Senhor do Bonfim - BR
+2901; ; ;;Targinos - BR
+2902; ; ;;Teixeiras - BR
+2903; ; ;;Almofala - BR
+2904; ; ;;Altin\xc3\xb3polis - BR
+2905; ; ;;Avanhandava - BR
+2906; ; ;;Fazenda Rio Grande - BR
+2907; ; ;;Fernando Pedroza - BR
+2908; ; ;;Guaxup\xc3\xa9 - BR
+2909; ; ;;NOVA GRANADA - BR
+2910; ; ;;Nova Londrina - BR
+2911; ; ;;Patroc\xc3\xadnio - BR
+2912; ; ;;Tabira - BR
+2913; ; ;;Tailandia - BR
+2914; ; ;;\xc3\x81guas das Pedras - BR
+2915; ; ;;CHORROCHO - BR
+2917; ; ;;Espumoso - BR
+2918; ; ;;Mogeiro - BR
+2919; ; ;;Nazario - BR
+2920; ; ;;Panelas - BR
+2921; ; ;;Sao Miguel Do Passa Quatro - BR
+2922; ; ;;Tres Pontas - BR
+2923; ; ;;ACARAPE - BR
+2924; ; ;;Araguatins - BR
+2925; ; ;;Conceicao - BR
+2926; ; ;;Eldorado - BR
+2927; ; ;;Gaspar - BR
+2929; ; ;;MONTEIROPOLIS - BR
+2930; ; ;;Pacajus - BR
+2931; ; ;;Sao V\xc3\xadtor - BR
+2932; ; ;;Timorante - BR
+2933; ; ;;BRAUNAS - BR
+2934; ; ;;Coronel Barros - BR
+2935; ; ;;Dom Vicoso - BR
+2936; ; ;;Inaj\xc3\xa1 - BR
+2937; ; ;;Ipameri - BR
+2938; ; ;;Matozinhos - BR
+2939; ; ;;Volta Grande - BR
+2940; ; ;;Passos - BR
+2942; ; ;;Pouso Alegre - BR
+2943; ; ;;Santa Terezinha - BR
+2944; ; ;;Sao Joao do Iva\xc3\xad - BR
+2945; ; ;;Sarandi - BR
+2946; ; ;;Biguacu - BR
+2947; ; ;;Gua\xc3\xadra - BR
+2948; ; ;;Itaj\xc3\xa1 - BR
+2949; ; ;;Lavras - BR
+2950; ; ;;Mesquita - BR
+2951; ; ;;Mongagu\xc3\xa1 - BR
+2952; ; ;;Piripiri - BR
+2953; ; ;;Sao Lu\xc3\xads do Curu - BR
+2954; ; ;;Tupaciguara - BR
+2955; ; ;;ARACI - BR
+2956; ; ;;Caet\xc3\xa9 - BR
+2957; ; ;;Capitao En\xc3\xa9as - BR
+2958; ; ;;Cubatao - BR
+2959; ; ;;Estrela do Norte - BR
+2960; ; ;;Itacar\xc3\xa9 - BR
+2961; ; ;;Palmeiropolis - BR
+2962; ; ;;Rafael Arruda - BR
+2963; ; ;;Salto - BR
+2964; ; ;;Sao Mateus Do Sul - BR
+2965; ; ;;S\xc3\xadtio dos Nunes - BR
+2966; ; ;;Acucena - BR
+2967; ; ;;Borda da Mata - BR
+2968; ; ;;Gama - BR
+2969; ; ;;ITAUBA - BR
+2970; ; ;;JUINA - BR
+2971; ; ;;Monte Belo - BR
+2972; ; ;;Murici - BR
+2973; ; ;;Porto Ferreira - BR
+2974; ; ;;Tigrinhos - BR
+2975; ; ;;Alum\xc3\xadnio - BR
+2976; ; ;;Campo Alegre De Goias - BR
+2977; ; ;;Campo do Tenente - BR
+2978; ; ;;Doutor Camargo - BR
+2979; ; ;;Lobato - BR
+2980; ; ;;Rio da Praia - BR
+2982; ; ;;Senador Firmino - BR
+2983; ; ;;Teolandia - BR
+2984; ; ;;Caucaia - BR
+2985; ; ;;Cemoaba - BR
+2986; ; ;;Jaguaripe - BR
+2987; ; ;;Jani\xc3\xb3polis - BR
+2988; ; ;;Nascente - BR
+2989; ; ;;Nova Trento - BR
+2990; ; ;;Santana do Livramento - BR
+2991; ; ;;Santo Andr\xc3\xa9 - BR
+2992; ; ;;Aracariguama - BR
+2993; ; ;;Cachoeiro de Itapemirim - BR
+2994; ; ;;Extrema - BR
+2995; ; ;;Itaguaj\xc3\xa9 - BR
+2996; ; ;;Marab\xc3\xa1 - BR
+2997; ; ;;Palmas - BR
+2998; ; ;;Sanhar\xc3\xb3 - BR
+2999; ; ;;Sombrio - BR
+3000; ; ;;Soure - BR
+3001; ; ;;\xc3\x81gua Boa - BR
+3002; ; ;;Barra do Pira\xc3\xad - BR
+3003; ; ;;Conselheiro Lafaiete - BR
+3004; ; ;;Fundao - BR
+3005; ; ;;Junqueir\xc3\xb3polis - BR
+3006; ; ;;Nanuque - BR
+3007; ; ;;Porto Trombetas - BR
+3008; ; ;;Sao Goncalo do Sapuca\xc3\xad - BR
+3009; ; ;;Valenca - BR
+3010; ; ;;C\xc3\xa1ssia - BR
+3011; ; ;;Douradinho - BR
+3012; ; ;;It\xc3\xa1polis - BR
+3013; ; ;;Lorena - BR
+3014; ; ;;PASSA E FICA - BR
+3015; ; ;;Praia Grande - BR
+3016; ; ;;Uba\xc3\xbana - BR
+3017; ; ;;Andradas - BR
+3018; ; ;;Araripina - BR
+3019; ; ;;Couto Magalhaes - BR
+3020; ; ;;Descarocador - BR
+3021; ; ;;Laranjais - BR
+3022; ; ;;Montanha - BR
+3023; ; ;;PORTO CALVO - BR
+3024; ; ;;Santa Elvira - BR
+3025; ; ;;Tubarao - BR
+3026; ; ;;Bocaj\xc3\xa1 - BR
+3027; ; ;;Cantagalo - BR
+3028; ; ;;Ibitinga - BR
+3029; ; ;;Jussara - BR
+3030; ; ;;Miraselva - BR
+3031; ; ;;Palma Sola - BR
+3032; ; ;;Penedo - BR
+3033; ; ;;Sao Bernardo do Campo - BR
+3035; ; ;;SAO MATEUS - BR
+3036; ; ;;Varzelandia - BR
+3037; ; ;;Bertioga - BR
+3039; ; ;;Carazinho - BR
+3040; ; ;;Ceres - BR
+3041; ; ;;Gravat\xc3\xa1 - BR
+3042; ; ;;Humaita - BR
+3043; ; ;;Ipiranga - BR
+3044; ; ;;Paraguacu Paulista - BR
+3045; ; ;;Paulista - BR
+3046; ; ;;Arn\xc3\xb3polis - BR
+3047; ; ;;Brejo das Freiras - BR
+3048; ; ;;Brodowski - BR
+3049; ; ;;Campina Grande - BR
+3050; ; ;;Corn\xc3\xa9lio Proc\xc3\xb3pio - BR
+3051; ; ;;Guara\xc3\xad - BR
+3052; ; ;;Jati - BR
+3053; ; ;;Santa Rosa do Sul - BR
+3054; ; ;;Wenceslau Braz - BR
+3055; ; ;;Badenfurt - BR
+3056; ; ;;Manari - BR
+3057; ; ;;Propri\xc3\xa1 - BR
+3058; ; ;;Quatro Bocas - BR
+3059; ; ;;Ribeirao Preto - BR
+3060; ; ;;Santo Antonio de P\xc3\xa1dua - BR
+3063; ; ;;VIla Formosa - BR
+3064; ; ;;Boa Vista do Buric\xc3\xa1 - BR
+3065; ; ;;Caic\xc3\xb3 - BR
+3066; ; ;;Capetinga - BR
+3067; ; ;;Itaberaba - BR
+3068; ; ;;Lages - BR
+3069; ; ;;Peixe - BR
+3070; ; ;;Regente Feij\xc3\xb3 - BR
+3071; ; ;;Sabinopolis - BR
+3072; ; ;;Varzea - BR
+3073; ; ;;Bonito - BR
+3074; ; ;;Cacapava Sul - BR
+3075; ; ;;Campos do Jordao - BR
+3076; ; ;;Carire - BR
+3077; ; ;;Iju\xc3\xad - BR
+3078; ; ;;Itajuipe - BR
+3079; ; ;;Itiquira - BR
+3080; ; ;;Pianc\xc3\xb3 - BR
+3081; ; ;;Baunilha - BR
+3082; ; ;;Cascalheira - BR
+3083; ; ;;Florida - BR
+3084; ; ;;Itapetininga - BR
+3085; ; ;;Luzerna - BR
+3086; ; ;;Marombas - BR
+3087; ; ;;Oliveira - BR
+3088; ; ;;PRESIDENTE ALVES - BR
+3089; ; ;;Sao Jose - BR
+3090; ; ;;Umbauba - BR
+3091; ; ;;angulo - BR
+3092; ; ;;Arapongas - BR
+3093; ; ;;Arcoverde - BR
+3094; ; ;;Crenaque - BR
+3095; ; ;;Delfim Moreira - BR
+3096; ; ;;Dias - BR
+3097; ; ;;Lajinha - BR
+3098; ; ;;Roainopolis - BR
+3099; ; ;;Rondon\xc3\xb3polis - BR
+3100; ; ;;Santa Isabel Do Ivai - BR
+3101; ; ;;Z\xc3\xa9 Doca - BR
+3102; ; ;;ALBERTO TORRES - BR
+3103; ; ;;Goianinha - BR
+3104; ; ;;Jaciara - BR
+3105; ; ;;Nono Cruzeiro - BR
+3106; ; ;;Ponta Grossa - BR
+3107; ; ;;Bom Jesus dos Pobres - BR
+3108; ; ;;Caarapo - BR
+3109; ; ;;California - BR
+3110; ; ;;Cambuci - BR
+3111; ; ;;Canaa - BR
+3112; ; ;;Itamira - BR
+3113; ; ;;Ourinhos - BR
+3114; ; ;;Sao Sepe - BR
+3115; ; ;;Serra do Cipo - BR
+3116; ; ;;Sertan\xc3\xb3polis - BR
+3117; ; ;;Tangar\xc3\xa1 - BR
+3118; ; ;;Correnteza - BR
+3119; ; ;;Guarapuava - BR
+3120; ; ;;Jeric\xc3\xb3 - BR
+3121; ; ;;Joao Amaro - BR
+3122; ; ;;Mossor\xc3\xb3 - BR
+3123; ; ;;Mucurici - BR
+3124; ; ;;Pinheiros - BR
+3125; ; ;;Santa Rita do Araguaia - BR
+3126; ; ;;Alexania - BR
+3127; ; ;;Entre Rios - BR
+3128; ; ;;Espera Feliz - BR
+3129; ; ;;Macei\xc3\xb3 - BR
+3130; ; ;;Mairi - BR
+3131; ; ;;Maria da F\xc3\xa9 - BR
+3132; ; ;;Mariluz - BR
+3133; ; ;;Presidente Venceslau - BR
+3134; ; ;;Residencia Fuck - BR
+3135; ; ;;Riachuelo - BR
+3136; ; ;;Venturosa - BR
+3137; ; ;;Bom Jardim De Goias - BR
+3138; ; ;;Col\xc3\xadder - BR
+3139; ; ;;Gl\xc3\xb3ria de Dourados - BR
+3140; ; ;;Ivinhema - BR
+3141; ; ;;Nova Alvorada do Sul - BR
+3142; ; ;;Pontes e Lacerda - BR
+3143; ; ;;Sao Bentinho - BR
+3144; ; ;;Tres Barras Do Parana - BR
+3145; ; ;;Buri - BR
+3146; ; ;;Camapua - BR
+3147; ; ;;Iconha - BR
+3148; ; ;;Ipora Do Oeste - BR
+3149; ; ;;Oroco - BR
+3150; ; ;;Para\xc3\xadso do Tocantins - BR
+3151; ; ;;Sao Roque do Canaa - BR
+3152; ; ;;Serril - BR
+3153; ; ;;Acara\xc3\xba - BR
+3154; ; ;;Buriti Alegre - BR
+3155; ; ;;Eldorado Dos Carajas - BR
+3156; ; ;;Itarema - BR
+3157; ; ;;Munhoz Melo - BR
+3158; ; ;;Presidente Prudente - BR
+3159; ; ;;Sao Leopoldo - BR
+3160; ; ;;Seringueiras - BR
+3161; ; ;;Bras\xc3\xadlia - BR
+3163; ; ;;Doctor Pedrinho - BR
+3164; ; ;;Itapejara D Oeste - BR
+3165; ; ;;Morada Nova - BR
+3166; ; ;;Porto Xavier - BR
+3167; ; ;;Sapucai-Mirim - BR
+3168; ; ;;Aragarcas - BR
+3169; ; ;;Barra Velha - BR
+3170; ; ;;Bom Jesus do Norte - BR
+3171; ; ;;CONFINS - BR
+3172; ; ;;CURRAL DE DENTRO - BR
+3173; ; ;;Igua\xc3\xad - BR
+3174; ; ;;Itaiba - BR
+3175; ; ;;Marechal Floriano - BR
+3176; ; ;;Mogi-Mirim - BR
+3177; ; ;;Perola do Oeste - BR
+3178; ; ;;Sao Francisco do Sul - BR
+3179; ; ;;Viana - BR
+3180; ; ;;Areia - BR
+3181; ; ;;Boa Sorte - BR
+3182; ; ;;Carm\xc3\xb3polis de Minas - BR
+3183; ; ;;Crixas - BR
+3184; ; ;;Gualdrapas - BR
+3185; ; ;;Matelandia - BR
+3186; ; ;;PIRACEMA - BR
+3187; ; ;;Sao Joao Evangelista - BR
+3188; ; ;;Vit\xc3\xb3ria da Conquista - BR
+3189; ; ;;Avelar - BR
+3190; ; ;;Catas Altas - BR
+3191; ; ;;Gameleira - BR
+3192; ; ;;GUIA LOPES DA LAGUNA - BR
+3193; ; ;;Maca\xc3\xa9 - BR
+3194; ; ;;Ouro Branco - BR
+3195; ; ;;Patroc\xc3\xadnio do Muria\xc3\xa9 - BR
+3196; ; ;;Santana - BR
+3197; ; ;;Timba\xc3\xbaba - BR
+3198; ; ;;Ura\xc3\xad - BR
+3199; ; ;;America Dourada - BR
+3200; ; ;;BARAO DE ANGRA - BR
+3201; ; ;;Cianorte - BR
+3202; ; ;;Formosa - BR
+3203; ; ;;Ibir\xc3\xa1 - BR
+3204; ; ;;Mangaratiba - BR
+3205; ; ;;OLHO D AGUA DO CASADO - BR
+3206; ; ;;Pedreiras - BR
+3207; ; ;;Santo Domingos do Maranhao - BR
+3208; ; ;;Tatu\xc3\xad - BR
+3209; ; ;;Tejucuoca - BR
+3210; ; ;;Vargem Grande - BR
+3211; ; ;;Aloandia - BR
+3212; ; ;;Aranau - BR
+3213; ; ;;Conceicao da Aparecida - BR
+3214; ; ;;Fazendinha - BR
+3215; ; ;;Governador Valadares - BR
+3216; ; ;;Marcelandia - BR
+3217; ; ;;Nova Iguacu - BR
+3218; ; ;;Paracambi - BR
+3219; ; ;;Sao Fidelis - BR
+3220; ; ;;Tabuleiro - BR
+3221; ; ;;Trevo - BR
+3222; ; ;;\xc3\x81guas de Chapec\xc3\xb3 - BR
+3223; ; ;;Ari - BR
+3224; ; ;;Coronel Bicaco - BR
+3225; ; ;;Estaca Zero - BR
+3226; ; ;;Guara - BR
+3227; ; ;;Martin\xc3\xb3pole - BR
+3228; ; ;;Nepomuceno - BR
+3229; ; ;;Paraopeba - BR
+3230; ; ;;Sao Joao do Paraiso - BR
+3231; ; ;;Sim\xc3\xb5es - BR
+3232; ; ;;Tutoia - BR
+3233; ; ;;Adamantina - BR
+3234; ; ;;BIRIGUI - BR
+3235; ; ;;Campo Largo - BR
+3236; ; ;;Duque de Caxias - BR
+3237; ; ;;Fragosos - BR
+3238; ; ;;Itaucu - BR
+3239; ; ;;Messias - BR
+3240; ; ;;MURUTINGA DO SUL - BR
+3241; ; ;;Piritiba - BR
+3242; ; ;;Api\xc3\xbana - BR
+3243; ; ;;Bravo - BR
+3244; ; ;;Cuiab\xc3\xa1 - BR
+3246; ; ;;DORES DE GUANHAES - BR
+3247; ; ;;ITACOATIARA - BR
+3248; ; ;;Juranda - BR
+3249; ; ;;Padre Para\xc3\xadso - BR
+3250; ; ;;Pouso Alto - BR
+3251; ; ;;SAO MIGUEL - BR
+3252; ; ;;Sarzedo - BR
+3253; ; ;;F\xc3\xa1tima do Sul - BR
+3254; ; ;;Jaguaquara - BR
+3255; ; ;;Monte Carmelo - BR
+3256; ; ;;Nova Prata - BR
+3257; ; ;;Porto Franco - BR
+3258; ; ;;Sud Menucci - BR
+3259; ; ;;\xc3\x81gua Limpa - BR
+3260; ; ;;Alto do Amparo - BR
+3261; ; ;;CACHOEIRA DO PAJEU - BR
+3262; ; ;;Estrela do Norte - BR
+3263; ; ;;Natividade - BR
+3264; ; ;;Rancharia - BR
+3265; ; ;;Salto de Pirapora - BR
+3266; ; ;;Senador Jos\xc3\xa9 Bento - BR
+3267; ; ;;Sitio Novo - BR
+3268; ; ;;Atirado - BR
+3269; ; ;;Caxambu - BR
+3270; ; ;;FUNILANDIA - BR
+3271; ; ;;Juiz de Fora - BR
+3272; ; ;;Mau\xc3\xa1 - BR
+3273; ; ;;Pato Branco - BR
+3274; ; ;;Santana do Matos - BR
+3275; ; ;;Santo angelo - BR
+3276; ; ;;Terra Roxa - BR
+3277; ; ;;\xc3\x81lvares Machado - BR
+3278; ; ;;Campo Alto - BR
+3279; ; ;;Contagem - BR
+3280; ; ;;Ibicoara - BR
+3281; ; ;;Mantena - BR
+3282; ; ;;Novo Horizonte - BR
+3283; ; ;;Rio das Antas - BR
+3284; ; ;;Valo Fundo - BR
+3285; ; ;;Barra do Rocha - BR
+3286; ; ;;Carangola - BR
+3287; ; ;;Guaian\xc3\xa1s - BR
+3288; ; ;;Ja\xc3\xadba - BR
+3289; ; ;;Monguba - BR
+3290; ; ;;Pequizeiro - BR
+3291; ; ;;Santa B\xc3\xa1rbara - BR
+3292; ; ;;Tucano - BR
+3293; ; ;;Aracatiacu - BR
+3294; ; ;;CACIMBINHAS - BR
+3295; ; ;;Cruz Machado - BR
+3296; ; ;;Inconfidentes - BR
+3297; ; ;;Lind\xc3\xb3ia - BR
+3298; ; ;;Palmas - BR
+3299; ; ;;Quipap\xc3\xa1 - BR
+3300; ; ;;Sao Luiz Gonzaga - BR
+3301; ; ;;Vinh\xc3\xa1tico - BR
+3302; ; ;;Andradina - BR
+3303; ; ;;Coxilha - BR
+3304; ; ;;Joinville - BR
+3305; ; ;;Medianeira - BR
+3306; ; ;;Piratuba - BR
+3307; ; ;;Rio Pomba - BR
+3308; ; ;;Serrinha - BR
+3309; ; ;;Teresopolis - BR
+3311; ; ;;Canto do Buriti - BR
+3312; ; ;;Cruzeiro - BR
+3313; ; ;;Itabera\xc3\xad - BR
+3314; ; ;;Itapora - BR
+3315; ; ;;Jutai - BR
+3316; ; ;;Luis Antonio - BR
+3317; ; ;;Palmares - BR
+3318; ; ;;Passa Quatro - BR
+3319; ; ;;Pocos de Caldas - BR
+3320; ; ;;Praia Seca - BR
+3321; ; ;;Trajano de Morais - BR
+3322; ; ;;Uberaba - BR
+3323; ; ;;Barra Burges - BR
+3324; ; ;;Carbonita - BR
+3325; ; ;;DESTERRO DE ENTRE RIOS - BR
+3326; ; ;;Gravatal - BR
+3327; ; ;;Ibiuna - BR
+3328; ; ;;Monte Alegre de Sergipe - BR
+3329; ; ;;Para\xc3\xadba do Sul - BR
+3330; ; ;;Porto de Sapuca\xc3\xad - BR
+3331; ; ;;Aroeira - BR
+3332; ; ;;Bataguassu - BR
+3333; ; ;;Bodoc\xc3\xb3 - BR
+3334; ; ;;Guaramiranga - BR
+3335; ; ;;Mari\xc3\xb3polis - BR
+3336; ; ;;Missal - BR
+3337; ; ;;Santa Rita do Passa Quatro - BR
+3338; ; ;;Sao Joao da Ponte - BR
+3339; ; ;;Sao Mateus - BR
+3340; ; ;;Benedito Novo - BR
+3341; ; ;;Campo Mourao - BR
+3342; ; ;;Campos Gerais - BR
+3343; ; ;;Ipaumirim - BR
+3344; ; ;;Prudente de Morais - BR
+3345; ; ;;Sao Jos\xc3\xa9 do Cedro - BR
+3346; ; ;;Urup\xc3\xa1 - BR
+3347; ; ;;Cacha Pregos - BR
+3348; ; ;;Camocim - BR
+3349; ; ;;Campina Verde - BR
+3350; ; ;;Chapadao do C\xc3\xa9u - BR
+3351; ; ;;Coroaci - BR
+3352; ; ;;Ilh\xc3\xa9us - BR
+3353; ; ;;Jardim - BR
+3354; ; ;;Ja\xc3\xba - BR
+3355; ; ;;PEIXOTO DE AZEVEDO - BR
+3356; ; ;;Raul Soares - BR
+3357; ; ;;V\xc3\xa1rzea - BR
+3358; ; ;;Bonito de Santa F\xc3\xa9 - BR
+3359; ; ;;Cajazeiras - BR
+3360; ; ;;Concceicao do Araguai - BR
+3361; ; ;;Italva - BR
+3362; ; ;;Laranjal - BR
+3363; ; ;;Marataizes - BR
+3364; ; ;;Porteiras - BR
+3365; ; ;;Santa Helena - BR
+3366; ; ;;Boa Vista do Tupim - BR
+3367; ; ;;Brejo do Cruz - BR
+3368; ; ;;Mandaguari - BR
+3369; ; ;;Rincao de Sao Pedro - BR
+3370; ; ;;Saboeiro - BR
+3371; ; ;;Anast\xc3\xa1cio - BR
+3372; ; ;;Anhandu\xc3\xad - BR
+3373; ; ;;Brusque - BR
+3374; ; ;;Cabo Frio - BR
+3375; ; ;;Corup\xc3\xa1 - BR
+3376; ; ;;Crici\xc3\xbama - BR
+3377; ; ;;Guararema - BR
+3378; ; ;;Paty do Alferes - BR
+3379; ; ;;Rochedo - BR
+3380; ; ;;Serra dos Aimor\xc3\xa9s - BR
+3381; ; ;;Zorra - BR
+3382; ; ;;Caninde - BR
+3383; ; ;;Cascavel - BR
+3385; ; ;;Itabaiana - BR
+3386; ; ;;Itapeva - BR
+3387; ; ;;Lagoa d Anta - BR
+3388; ; ;;Ponta Pora - BR
+3389; ; ;;Tres Corac\xc3\xb5es - BR
+3390; ; ;;Ubai - BR
+3391; ; ;;Alfenas - BR
+3392; ; ;;Arapoti - BR
+3393; ; ;;Bom Retiro - BR
+3394; ; ;;Calmon - BR
+3395; ; ;;Lajinha - BR
+3396; ; ;;Nova Esperanca - BR
+3397; ; ;;Rel\xc3\xb3gio - BR
+3398; ; ;;Ribeirao - BR
+3399; ; ;;Sao Pedro - BR
+3400; ; ;;Sao Simao - BR
+3401; ; ;;Espigao Alto do Iguacu - BR
+3402; ; ;;Fl\xc3\xb3rida Paulista - BR
+3403; ; ;;Get\xc3\xbalio Vargas - BR
+3404; ; ;;Morrinhos - BR
+3405; ; ;;Nonoai - BR
+3406; ; ;;Rosario Do Sul - BR
+3407; ; ;;Ipixuna - BR
+3408; ; ;;Ipuacu - BR
+3409; ; ;;Machado - BR
+3410; ; ;;Mairipora - BR
+3411; ; ;;Oriente - BR
+3412; ; ;;Or\xc3\xb3s - BR
+3413; ; ;;Presidente Dutra - BR
+3414; ; ;;Preta - BR
+3415; ; ;;Coaraci - BR
+3416; ; ;;Itutinga - BR
+3417; ; ;;JABOTI - BR
+3418; ; ;;Jericoacoara - BR
+3419; ; ;;Pedra Bela - BR
+3420; ; ;;Pindamonhangaba - BR
+3421; ; ;;Piquerobi - BR
+3422; ; ;;Taquara Verde - BR
+3423; ; ;;Alcobaca - BR
+3424; ; ;;Bom Jesus De Goias - BR
+3425; ; ;;Camaqua - BR
+3426; ; ;;Delfin\xc3\xb3polis - BR
+3427; ; ;;Iepe - BR
+3428; ; ;;Laje - BR
+3429; ; ;;Marialva - BR
+3430; ; ;;NOVA BASSANO - BR
+3431; ; ;;Parais\xc3\xb3polis - BR
+3432; ; ;;Resplendor - BR
+3433; ; ;;Sao Sebastiao - BR
+3434; ; ;;Vau-Acu - BR
+3435; ; ;;Baldim - BR
+3436; ; ;;Bauru - BR
+3437; ; ;;Flores - BR
+3438; ; ;;Godofredo - BR
+3439; ; ;;Miraima - BR
+3440; ; ;;Mozarlandia - BR
+3441; ; ;;Santa Mercedes - BR
+3442; ; ;;Sao Bento - BR
+3443; ; ;;Aurora - BR
+3444; ; ;;Catu - BR
+3445; ; ;;Guarulhos - BR
+3447; ; ;;Macarani - BR
+3448; ; ;;Patos de Minas - BR
+3449; ; ;;Ronda Alta - BR
+3450; ; ;;Santana do Ipanema - BR
+3451; ; ;;Timbu\xc3\xad - BR
+3452; ; ;;Uniao dos Palmares - BR
+3453; ; ;;Arenopolis - BR
+3454; ; ;;Carqueijo - BR
+3455; ; ;;GUANHAES - BR
+3456; ; ;;Liberata - BR
+3457; ; ;;Paranareal - BR
+3458; ; ;;Santa Maria - BR
+3459; ; ;;Tururu - BR
+3460; ; ;;Barra Feliz - BR
+3461; ; ;;Conceicao do Rio Verde - BR
+3462; ; ;;Igrapi\xc3\xbana - BR
+3463; ; ;;Marco - BR
+3464; ; ;;Peric\xc3\xb3 - BR
+3465; ; ;;Sao Francisco de Itabapoana - BR
+3466; ; ;;Vera Cruz do Oeste - BR
+3467; ; ;;Bananal - BR
+3468; ; ;;Clara\xc3\xadba - BR
+3469; ; ;;Ibipeba - BR
+3470; ; ;;Manhuacu - BR
+3471; ; ;;Pedralva - BR
+3472; ; ;;Santo In\xc3\xa1cio - BR
+3473; ; ;;Vargem Alta - BR
+3474; ; ;;Acaiaca - BR
+3475; ; ;;Acre\xc3\xbana - BR
+3476; ; ;;Edealina - BR
+3477; ; ;;El\xc3\xb3i Mendes - BR
+3478; ; ;;Milagres - BR
+3479; ; ;;Mundo Novo - BR
+3480; ; ;;Muria\xc3\xa9 - BR
+3481; ; ;;Sao Jos\xc3\xa9 dos Campos - BR
+3482; ; ;;Serra Azula de Minas - BR
+3483; ; ;;\xc3\x81gua Verde - BR
+3484; ; ;;Aimor\xc3\xa9s - BR
+3485; ; ;;Coronel Vivida - BR
+3486; ; ;;Esplanada - BR
+3487; ; ;;Estrela - BR
+3488; ; ;;Marzagao - BR
+3489; ; ;;Nazare - BR
+3490; ; ;;Nilo Pecanha - BR
+3491; ; ;;Sao Joao do Rio do Peixe - BR
+3492; ; ;;Setubinha - BR
+3493; ; ;;Sirinha\xc3\xa9m - BR
+3494; ; ;;Volta do Rio - BR
+3495; ; ;;Araguapaz - BR
+3496; ; ;;Fenix - BR
+3497; ; ;;GOVERNADOR DIX-SEPT ROSADO - BR
+3498; ; ;;Nova Laranjeiras - BR
+3499; ; ;;Petr\xc3\xb3polis - BR
+3500; ; ;;Taguatinga - BR
+3501; ; ;;Vicosa - BR
+3502; ; ;;Aparecida do Taboado - BR
+3503; ; ;;DIVINOLANDIA DE MINAS - BR
+3504; ; ;;Ibiracu - BR
+3505; ; ;;Olho d \xc3\x81gua das Flores - BR
+3506; ; ;;Pedro do Rio - BR
+3507; ; ;;Sao Miguel do Guapore - BR
+3508; ; ;;Teixeira de Freitas - BR
+3509; ; ;;Vargito - BR
+3510; ; ;;Aterrado Torto - BR
+3511; ; ;;Catalao - BR
+3512; ; ;;Caxias do Sul - BR
+3513; ; ;;Galil\xc3\xa9ia - BR
+3514; ; ;;Gurupi - BR
+3515; ; ;;Juazeiro do Norte - BR
+3516; ; ;;Santiago - BR
+3517; ; ;;Tibagi - BR
+3518; ; ;;Uruburetama - BR
+3519; ; ;;Armacao - BR
+3520; ; ;;Boa Vista - BR
+3521; ; ;;Capim-branco - BR
+3522; ; ;;Cruz - BR
+3523; ; ;;Lins - BR
+3525; ; ;;Palmeira dos \xc3\x8dndios - BR
+3526; ; ;;Parau - BR
+3527; ; ;;Planalto Alegre - BR
+3528; ; ;;Salobra - BR
+3529; ; ;;Cara\xc3\xbabas - BR
+3530; ; ;;Faxinal dos Guedes - BR
+3531; ; ;;Graja\xc3\xba - BR
+3532; ; ;;Itai\xc3\xb3polis - BR
+3533; ; ;;Jaguariaiva - BR
+3534; ; ;;Mombaca - BR
+3535; ; ;;Santa Cec\xc3\xadlia - BR
+3536; ; ;;Susto - BR
+3537; ; ;;Trindade do Sul - BR
+3538; ; ;;Amaniutuba - BR
+3539; ; ;;Apraz\xc3\xadvel - BR
+3540; ; ;;BRASNORTE - BR
+3541; ; ;;Campinas - BR
+3543; ; ;;Dom Eliseu - BR
+3544; ; ;;juruti - BR
+3545; ; ;;Ocara - BR
+3546; ; ;;Pains - BR
+3547; ; ;;Potengi - BR
+3548; ; ;;Rio Brilhante - BR
+3549; ; ;;Saquarema - BR
+3550; ; ;;Bezerros - BR
+3551; ; ;;FRANCISCO DUMONT - BR
+3552; ; ;;Itaquira\xc3\xad - BR
+3553; ; ;;Itatingui - BR
+3554; ; ;;Muzambinho - BR
+3555; ; ;;Pires do Rio - BR
+3556; ; ;;Pi\xc3\xbama - BR
+3557; ; ;;\xc3\x81gua Clara - BR
+3558; ; ;;Alto Para\xc3\xadso de Goi\xc3\xa1s - BR
+3559; ; ;;Cachoeirinha - BR
+3560; ; ;;Cacu - BR
+3561; ; ;;Inacio Martins - BR
+3562; ; ;;Independencia - BR
+3563; ; ;;Querencia Do Norte - BR
+3564; ; ;;Quixad\xc3\xa1 - BR
+3566; ; ;;Soledade - BR
+3567; ; ;;Vila Vargas - BR
+3568; ; ;;Visconde do Rio Branco - BR
+3569; ; ;;BARRA DE SAO MIGUEL - BR
+3570; ; ;;Carambei - BR
+3571; ; ;;Farroupilha - BR
+3572; ; ;;Jandaia do Sul - BR
+3573; ; ;;Monnerat - BR
+3574; ; ;;Pensao Seca - BR
+3575; ; ;;Sao Gabriel do Oeste - BR
+3576; ; ;;Tuneiras do Oeste - BR
+3577; ; ;;Alto Taquari - BR
+3578; ; ;;Branca de Atalaia - BR
+3579; ; ;;Dorizon - BR
+3580; ; ;;Ibatiba - BR
+3581; ; ;;Mar de Espanha - BR
+3582; ; ;;Nova Vicosa - BR
+3583; ; ;;Rio do Meio - BR
+3584; ; ;;Sayonara - BR
+3585; ; ;;Berilo - BR
+3586; ; ;;Campos - BR
+3587; ; ;;FREDERICO - BR
+3588; ; ;;Ipia\xc3\xba - BR
+3589; ; ;;Orlandia - BR
+3590; ; ;;Santo Antonio de Jesus - BR
+3591; ; ;;Sao Jos\xc3\xa9 de Ub\xc3\xa1 - BR
+3592; ; ;;Utinga - BR
+3593; ; ;;Arac\xc3\xa1 - BR
+3594; ; ;;Bocaino do Sul - BR
+3595; ; ;;GLICERIO - BR
+3596; ; ;;Miranorte - BR
+3597; ; ;;Mucuge - BR
+3598; ; ;;Ruropolis - BR
+3599; ; ;;Santa Rosa - BR
+3600; ; ;;Sao Marcos - BR
+3601; ; ;;Seberi - BR
+3602; ; ;;Araraquara - BR
+3603; ; ;;BARIRI - BR
+3604; ; ;;Borac\xc3\xa9ia - BR
+3605; ; ;;Coluna - BR
+3606; ; ;;Itambacuri - BR
+3607; ; ;;Lapao - BR
+3608; ; ;;Marangatu - BR
+3609; ; ;;Santa Cruz do Rio Pardo - BR
+3610; ; ;;Sao Sebastiao do Alto - BR
+3611; ; ;;Tronco - BR
+3612; ; ;;CASEARA - BR
+3613; ; ;;Corea\xc3\xba - BR
+3614; ; ;;Cruz\xc3\xadlia - BR
+3615; ; ;;Imbituva - BR
+3616; ; ;;Itabuna - BR
+3617; ; ;;Londrina - BR
+3618; ; ;;Parnamirim - BR
+3619; ; ;;Pilar - BR
+3620; ; ;;Pomp\xc3\xa9ia - BR
+3621; ; ;;Ubajara - BR
+3622; ; ;;Crato - BR
+3623; ; ;;Honor\xc3\xb3polis - BR
+3624; ; ;;Itauninhas - BR
+3625; ; ;;Joaquim Gomes - BR
+3626; ; ;;Joviania - BR
+3627; ; ;;Mendanha - BR
+3628; ; ;;Paulic\xc3\xa9ia - BR
+3629; ; ;;Pirapora - BR
+3630; ; ;;RIOLANDIA - BR
+3631; ; ;;Rio Maria - BR
+3632; ; ;;Barretos - BR
+3633; ; ;;Marmeleiro - BR
+3634; ; ;;Rio Bonito - BR
+3635; ; ;;Sao Joao do Caiua - BR
+3636; ; ;;Bonfim - BR
+3637; ; ;;Caric\xc3\xa9 - BR
+3640; ; ;;Jacupiranga - BR
+3642; ; ;;Santa Ines - BR
+3643; ; ;;Sao Carlos - BR
+3644; ; ;;Campestre - BR
+3645; ; ;;Capela Nova - BR
+3646; ; ;;Chopinzinho - BR
+3647; ; ;;Itabela - BR
+3648; ; ;;Itapiuna - BR
+3649; ; ;;Jata\xc3\xad - BR
+3650; ; ;;Lagarto - BR
+3651; ; ;;Poco Grande - BR
+3652; ; ;;Praca Seca - BR
+3653; ; ;;Abel Figueiredo - BR
+3654; ; ;;Bacabal - BR
+3655; ; ;;Belo Jardim - BR
+3656; ; ;;Campos Sales - BR
+3657; ; ;;ENGENHEIRO NAVARRO - BR
+3658; ; ;;Ipom\xc3\xa9ia - BR
+3659; ; ;;Mag\xc3\xa9 - BR
+3660; ; ;;Osvaldo Cruz - BR
+3661; ; ;;Primavera do Leste - BR
+3662; ; ;;Sao Jos\xc3\xa9 do Ribeirao - BR
+3663; ; ;;General Carneiro - BR
+3664; ; ;;Goian\xc3\xa9sia - BR
+3665; ; ;;GUARACIAMA - BR
+3666; ; ;;Miracatu - BR
+3667; ; ;;Modelo - BR
+3668; ; ;;Morro do Ferro - BR
+3669; ; ;;Santa Rita - BR
+3670; ; ;;ALMEIRIM - BR
+3671; ; ;;Caldas - BR
+3672; ; ;;Curvelo - BR
+3673; ; ;;NOVA CRUZ - BR
+3674; ; ;;Paraguacu - BR
+3675; ; ;;Porangatu - BR
+3676; ; ;;Resende - BR
+3677; ; ;;Tambau - BR
+3678; ; ;;Canoinhas - BR
+3679; ; ;;Itapetim - BR
+3680; ; ;;Itumirim - BR
+3681; ; ;;JACARE DOS HOMENS - BR
+3682; ; ;;Jequitinhonha - BR
+3683; ; ;;Taquari - BR
+3684; ; ;;Torres - BR
+3685; ; ;;Tres Lagoas - BR
+3686; ; ;;Andarai - BR
+3687; ; ;;Angra dos Reis - BR
+3688; ; ;;Buerarema - BR
+3689; ; ;;Buritirana - BR
+3690; ; ;;Costa Marques - BR
+3691; ; ;;Guarauna - BR
+3692; ; ;;Rodeio - BR
+3693; ; ;;Serran\xc3\xb3polis - BR
+3694; ; ;;Xinguara - BR
+3695; ; ;;Baixa Grande - BR
+3696; ; ;;Balsas - BR
+3697; ; ;;Bataypora - BR
+3698; ; ;;Bebedouro - BR
+3699; ; ;;Fischer - BR
+3700; ; ;;Florest\xc3\xb3polis - BR
+3701; ; ;;Santos Dumont - BR
+3704; ; ;;Sao Bento do Sul - BR
+3705; ; ;;Al\xc3\xa9m Para\xc3\xadba - BR
+3706; ; ;;Camamu - BR
+3707; ; ;;Descalvado - BR
+3708; ; ;;Icaraima - BR
+3709; ; ;;Lajedinho - BR
+3710; ; ;;Para\xc3\xadso - BR
+3711; ; ;;Riachao - BR
+3712; ; ;;Sao Pedro Do Ivai - BR
+3713; ; ;;Venda Nova do Imigrante - BR
+3714; ; ;;Candido Sales - BR
+3715; ; ;;Carvalhos - BR
+3716; ; ;;Coimbra - BR
+3717; ; ;;Itapag\xc3\xa9 - BR
+3718; ; ;;Ivailandia - BR
+3720; ; ;;Peabiru - BR
+3721; ; ;;Pinhao - BR
+3722; ; ;;Ponte Alta do Norte - BR
+3723; ; ;;Taperuaba - BR
+3724; ; ;;Tres Barras - BR
+3725; ; ;;Uirauna - BR
+3729; ; ;;Viedma zbh (Buenos Aires - ARG)
+3731; ;-40317920000;-71382475000;Puente Rio Hermoso (Neuquen - ARG)
+3732; ; ;;Rio do Sul - BR
+3743;Ruta+Nacional+35+-+KM+371 ; ;;Winifreda - Acceso Garita YPF (La Pampa - ARG)
+3745; ;-38327800000;-61444400000;Despe\xc3\xb1aderos (Cordoba - ARG)
+3746; ;-31983300000;-64383300000;San Agustin (Cordoba - ARG)
+3747; ;-32103998800;-64344525600;Las Bajadas (Cordoba - ARG)
+3748; ;-32325938600;-64288953100;Los Condores (Cordoba - ARG)
+3749; ;-32566700000;-64383300000;Elena (Cordoba - ARG)
+3750; ;-33516700000;-64683300000;Bulnes (Cordoba - ARG)
+3751; ;-34723332600;-63525806100;Hipolito Bouchard (Cordoba - ARG)
+3752; ;-33620937900;-64604603600;Coronel Moldes (Cordoba - ARG)
+3753; ;-31586409600;-64351198000;Santa Ana (Cordoba - ARG)
+3754; ;-34793990700;-63794043500;Italo (Cordoba - ARG)
+3755; ;-34838964300;-63920476800;Pincen (Cordoba - ARG)
+3756; ;-31794400000;-64404583600;Villa Anisacate (Cordoba - ARG)
+3758; ;-31735304300;-64457653700;La Serranita (Cordoba - ARG)
+3759; ;-31784272700;-64513010900;Villa Ciudad de America (Cordoba - ARG)
+3760; ;-31827859900;-64521632900;Dique los Molinos (Cordoba - ARG)
+3761; ;-31927717500;-64586601200;Los Reartes (Cordoba - ARG)
+3762; ;-34521272800;-63968924500;Jovita (Cordoba - ARG)
+3763; ;-33979249100;-64086221700;La Cautiva (Cordoba - ARG)
+3764; ;-33933539200;-64238833200;General Soler (Cordoba - ARG)
+3765; ; ;;Tosquita (Cordoba - ARG)
+3766; ; ;;Malena (Cordoba - ARG)
+3767; ;-32188005800;-64494433200;Villa Rumipal (Cordoba - ARG)
+3768; ;-32808123500;-63886422600;General Cabrera (Cordoba - ARG)
+3769; ; ;;El Espinillal (Cordoba - ARG)
+3770; ;-32413775500;-64502221300;Paso Cabral (Cordoba - ARG)
+3773; ;-32236027500;-64356819100;El Quebracho (Cordoba - ARG)
+3774; ;-32241810400;-63983128000;Tancacha (Cordoba - ARG)
+3775; ;-32322090100;-63876726900;General Fotheringham (Cordoba - ARG)
+3776; ;-34439207000;-64347726400;Nicolas Bruzzone (Cordoba - ARG)
+3777; ;-34482042400;-64180448600;Mattaldi (Cordoba - ARG)
+3778; ;-32425671300;-63742213900;Hernando (Cordoba - ARG)
+3779; ; ;;Villa Valeria (Cordoba - ARG)
+3780; ;-32610644100;-63586145500;Dalmacio Velez S. (Cordoba - ARG)
+3781; ;-32540269000;-63487444800;Luca (Cordoba - ARG)
+3782; ;-32490975100;-63408090500;Arroyo Cabral (Cordoba - ARG)
+3783; ; ;;Cruce Alto de Fierro (Cordoba - ARG)
+3784; ;-33485442200;-64419899700;Cruce Malena (Cordoba - ARG)
+3785; ;-33623043600;-64599077100;Cruce Moldes (Cordoba - ARG)
+3786; ;-34375761300;-64506974100;Del Campillo (Cordoba - ARG)
+3787; ;-34840311600;-64596593200;Villa Huidobro (Cordoba - ARG)
+3788; ;-32232355000;-64444616700;Usina Atomica (Cordoba - ARG)
+3789; ;-31526045300;-64287619800;Los Cedros (Cordoba - ARG)
+3790; ;-33495685900;-64319213200;San Basilio (Cordoba - ARG)
+3791; ;-33628429600;-64037123300;Adelia Maria (Cordoba - ARG)
+3792; ;-33636871500;-63900369500;Monte de los Gauchos (Cordoba - ARG)
+3793; ; ;;Huanchilla (Cordoba - ARG)
+3794; ;-33665728800;-63545273600;El Rastreador (Cordoba - ARG)
+3795; ;-34348873200;-63454861600;Melo (Cordoba - ARG)
+3796; ;-34472888800;-63546612500;Serrano (Cordoba - ARG)
+3797; ;-31829126900;-64522506800;Villa la Merced (Cordoba - ARG)
+3798; ;-31904902000;-64563893800;Villa Ciudad Parque (Cordoba - ARG)
+3799; ;-32427487000;-63315586000;El Cruce Villa Maria CBA (Cordoba - ARG)
+3800; ;-34028888200;-64376544100;El Consuelo - Paraje (Cordoba - ARG)
+3801; ;-34623133800;-64376188800;La Colorada - Paraje (Cordoba - ARG)
+3802; ;-32030960800;-64557372900;Cerro de Oro - Parador (Cordoba - ARG)
+3804; ; ;;San Manuel - Plaza (Buenos Aires - ARG)
+3805; ;-35394964000;-62424734000;Carlos Tejedor - Terminal (Buenos Aires - ARG)
+3806; ;-37166893000;-56905198800;Carilo - Casta\xc3\xb1o 284 (Buenos Aires - ARG)
+3808; ;-36532328100;-60887061500;Blanca Grande (Buenos Aires - ARG)
+3809; ;-36087064400;-61413848400;Herrera Vegas (Buenos Aires - ARG)
+3810; ;-34895005300;-61009130600;Zavalia (Buenos Aires - ARG)
+3811; ;-35745216200;-60856283600;Santos Unzue (Buenos Aires - ARG)
+3812; ;-35982443100;-60936342100;Villa Sanz - Acceso (Buenos Aires - ARG)
+3813; ; ;;El Soldado (Buenos Aires - ARG)
+3814; ; ;;San Carlos - Km 20 (Buenos Aires - ARG)
+3815; ; ;;La Peregrina (Buenos Aires - ARG)
+3816; ;-37856730100;-57969791200;Escuela N\xc2\xb024 (Buenos Aires - ARG)
+3817; ; ;;Estacion Terrena (Buenos Aires - ARG)
+3818; ; ;;Cruce Ruta 226 y 55 (Buenos Aires - ARG)
+3819; ; ;;Ceramica Sema (Buenos Aires - ARG)
+3820; ; ;;La Vasconia (Buenos Aires - ARG)
+3821; ;-34867693800;-61527084800;Lincoln - Terminal (Buenos Aires - ARG)
+3822; ;35058487000;-60999956000;General Viamonte - Acceso (Buenos Aires - ARG)
+3823;Estanislao+del+Campo+807-899 ;-35810964100;-61904933600;Pehuajo - Terminal (Buenos Aires - ARG)
+3824;Boulevard+Republica+128+-+150m+Arco+de+entrada ;-28680678000;-62884424000;Ica\xc3\xb1o - Entrada (Santiago del Estero - ARG)
+3826; ;-49333926600;-72885516300;El Chalten - Terminal (Santa Cruz - ARG)
+3827; ;-46543921200;-71626841600;Los Antiguos - Terminal (Santa Cruz - ARG)
+3829; ;-31275943500;-64171811800;Juarez Celman (Cordoba - ARG)
+3830; ;-30115380100;-63849131100;Santa Elena (Cordoba - ARG)
+3831; ;-30073613900;-63831437200;Rayo Cortado (Cordoba - ARG)
+3832; ;-29052115400;-63964659500;Ambargasta (Santiago del Estero - ARG)
+3833; ;-28305091800;-64196169700;Villa San Martin (Santiago del Estero - ARG)
+3834; ;-28100342300;-64225683400;Simbol (Santiago del Estero - ARG)
+3835; ;-34995063500;-58048299600;Lisandro Olmos - Banco Provincia (Buenos Aires - ARG)
+3836; ;-27956182100;-65166999900;San Pedro (Santiago del Estero - ARG)
+3837; ;-27647885100;-65254754500;La Madrid (Tucuman - ARG)
+3838; ;-27264658100;-65367586700;Simoca (Tucuman - ARG)
+3839; ;-27031522900;-65323765500;Bella Vista (Tucuman - ARG)
+3840; ;-29722332300;-63523995000;Gutemberg (Cordoba - ARG)
+3841; ;-29565331000;-63467804100;Sol de Julio (Santiago del Estero - ARG)
+3842; ;-29383469100;-63482948600;Sumampa (Santiago del Estero - ARG)
+3843; ;-34780538000;-63001298000;Piedritas - AXION (Buenos Aires - ARG)
+3844; ; ;;Epulef - Acceso (Chubut - ARG)
+3845; ; ;;Colan Conue (Chubut - ARG)
+3846; ;-38028992000;-60101955000;Gonzalez Chavez - Terminal (Buenos Aires - ARG)
+3847; ;-27396228800;-55959535300;Virasoro (IGZ) (Misiones - ARG)
+3848;Av.+Carlos+San+Yde+604%2C+X6140APC+Vicu%C3%B1a+Mackenna%2C+C%C3%B3rdoba ;-33917260000;-64390780000;Vicu\xc3\xb1a Mackenna - Terminal (Cordoba - ARG) (Cordoba - ARG)
+3850;Av.+Mac+Lean+2347%2C+Resistencia%2C+Chaco ;-27456416000;-59022634000;Corrientes (RS) (Chaco - ARG)
+3851; ;-36305285200;-61728767300;Henderson - Terminal (Buenos Aires - ARG)
+3852; ;-35628745500;-61361668800;Carlos Casares - Terminal (Buenos Aires - ARG)
+3853; ;-34641471700;-60462915200;Chacabuco - Terminal (Buenos Aires - ARG)
+3854; ;-35635011800;-59779375400;Saladillo - Terminal (Buenos Aires - ARG)
+3855; ;-34888586000;-60015171600;Chivilcoy - Terminal (Buenos Aires - ARG)
+3856;Av+7+de+marzo+2056+p ;-31666743000;-60762493000;Santo Tome (Santa Fe - ARG)
+3857; ;-37886017800;-58121669600;Escuela La Marta - Cementerio (Buenos Aires - ARG)
+3859; ;-37868496200;-57943882900;Cruce El Dorado (Buenos Aires - ARG)
+3862; ;-35112377500;-60492891800;Bragado - Terminal (Buenos Aires - ARG)
+3875; ;-24452492800;-65156348500;Monterrico (Jujuy - ARG)
+3876; ;-24388500500;-65260150600;El Carmen (Jujuy - ARG)
+3877; ;-22289657100;-65681136800;Pumahuasi (Jujuy - ARG)
+3878; ;-23437037000;-65351561100;Huacalera (Jujuy - ARG)
+3879; ;-22537976400;-65702172000;Puesto del Marquez (Jujuy - ARG)
+3880; ;-23746157900;-65501859900;Purmamarca - Pueblo (Jujuy - ARG)
+3881; ;-23302824400;-65357972100;Senador Perez (Jujuy - ARG)
+3882; ;-23128881100;-65368347900;Chorrillos (Jujuy - ARG)
+3883; ;-22962356400;-65440655000;Azul Pampa (Jujuy - ARG)
+3884; ;-22979185800;-65356142600;Iturbe (Jujuy - ARG)
+3885; ; ;;Malargue (Mendoza - ARG)
+3886; ;-28984778100;-63463639300;Los Telares (Santiago del Estero - ARG)
+3887; ; ;;Intendente Alvear (La Pampa - ARG)
+3888;Calle+Tucum%C3%A1n+esquina+Col%C3%B3n+%28S%2FN%29+-+Boleteria+N%C2%B0+1 ; ;;Monte Caseros - Terminal (Corrientes - ARG)
+3889;Av.+Pres.+Dr.+Arturo+Frondizi+898 ;-37990958193;-61349209557;Coronel Pringles - Terminal (Buenos Aires - ARG)
+3890;Sourigues+449+-+Bol+2+y+3 ;-32217087000;-58147453000;Colon - Terminal (Entre Rios - ARG)
+3891;Bv.+de+los+Constituyentes+76%2C+esquina+Rocamora ;-32485323500;-58244318700;Concepcion del Uruguay - Terminal (Entre Rios - ARG)
+3892;Parador+El+Basti%C3%B3n+-+RN+40+-+KM+36 ;-41596661522;-71745428001;El Manso - Paraje (Rio Negro ARG) (Rio Negro - ARG)
+3895;Lima+Oeste+1578 ;-34626671000;-58382372000;Constituci\xc3\xb3n (Capital Federal) (Buenos Aires - ARG)
+3898;Ruta+N51+-+Ingreso+al+pueblo ;-35414644000;-60084546000;25 de Mayo - Cruce (Buenos Aires - ARG)
+3899; ;-40147060000;-71306622000;Villa Paur - Caminera (Neuquen - ARG)
+3900; ;40136683000;71287619000;Vega San Martin - YPF (Neuquen - ARG)
+3901; ;-40127406000;71220648000;Chacra 30 - Cantera (Neuquen - ARG)
+3902; ;-33764299000;-59713635000;San Pedro \xe2\x80\x93 YPF (Buenos Aires - ARG)
+3903; ;-33782414000;-59644598000;San Pedro \xe2\x80\x93 SHELL (Buenos Aires - ARG)
+3904; ;-34641471700;-60462915200;SAN GENARO CHA (Buenos Aires - ARG)
+3905; ;-34920677900;-59986048900;San Genaro CHV (Buenos Aires - ARG)
+3906; ;-35032351000;-63012062000;Rufino GVI (Buenos Aires - ARG)
+3907; ;-34780538000;-63001298000;Rufino PIE (Buenos Aires - ARG)
+3910;Avenida+Morfeo+55 ;-33342557595;-60226894015;San Nicolas - Terminal (Buenos Aires - ARG)
+3911; ;-36962350389;-60262544976;Olavarria - YPF (Buenos Aires - ARG)
+3912;Jose+Vela+e+Italia+-+Pergamino ;-33913729000;-60586451000;San Genaro PRG (Buenos Aires - ARG)
+3913;C.+de+Jesus+Ojeda+y+Av+Juan+Branchi+ ; ;;La Cruz Terminal (Ctes) (Corrientes - ARG)
+3914;Rivadavia+y+Avellaneda ;-36266142000;-63164365000;Pellegrini - Terminal (Buenos Aires - ARG)
+3915;Av.+Entre+R%C3%ADos+y+Av.+Las+Violetas ;-30981394000;-57923231000;Federaci\xc3\xb3n Terminal (ER) (Entre Rios - ARG)
+3916;RN+12+y+ACC+RP+16 ;-26491790000;-54674460000;Puerto Piray Terminal (Misiones - ARG)
+3917; ;-42028365026;-71546110103;Cerro Radal - Lago Puelo (Chubut - ARG)
+3918;Rogelio+Martinez+2066 ;-32447752000;-64405072000;Berrotar\xc3\xa1n - Terminal (C\xc3\xb3rdoba - ARG) (Cordoba - ARG)
+3919; ;-41159480346;-71283904015;270 viviendas - Bariloche (Rio Negro - ARG)
+3920; ;-41172655165;-71340058031;Diarco - Bariloche (Rio Negro - ARG)
