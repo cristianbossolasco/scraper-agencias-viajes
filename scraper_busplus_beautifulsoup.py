@@ -351,12 +351,12 @@ def get_paradas():
 
 """# scraper"""
 
-ls_origenes = [28]
-ls_destinos = df_paradas.query('nombre.str.contains("Entre Rios")', engine='python').id.tolist()
-ls_destinos = df_paradas[5:10].id.tolist()
+# ls_origenes = [28]
+# ls_destinos = df_paradas.query('nombre.str.contains("Entre Rios")', engine='python').id.tolist()
+# ls_destinos = df_paradas[5:10].id.tolist()
 
-result = scrapear_viajes(ls_origenes, ls_destinos, 1)
-df_results = dict_to_dataframe(result)
-# ruta = '/content/drive/MyDrive/viajes/EntreRios_Next7_days.xlsx'
-# df_results.to_excel(ruta, index=False, encoding = 'utf-8-sig')
-print(df_results.head())
+# result = scrapear_viajes(ls_origenes, ls_destinos, 1)
+# df_results = dict_to_dataframe(result)
+# # ruta = '/content/drive/MyDrive/viajes/EntreRios_Next7_days.xlsx'
+# # df_results.to_excel(ruta, index=False, encoding = 'utf-8-sig')
+# print(df_results.head())
