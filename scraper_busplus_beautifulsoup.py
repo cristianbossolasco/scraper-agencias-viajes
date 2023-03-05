@@ -344,6 +344,11 @@ def dict_to_dataframe(result):
       ls.append(record)
   return pd.DataFrame.from_records(ls)
 
+def get_paradas():
+  return df_paradas
+
+
+
 """# scraper"""
 
 ls_origenes = [28]
