@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-
+{% block title %}Scraper Bus Plus{% endblock %}
 {% block content %}
-    <h1>{% block title %} Welcome to FlaskBlog {% endblock %}</h1>
+    {{tabla | safe}}
 {% endblock %}
